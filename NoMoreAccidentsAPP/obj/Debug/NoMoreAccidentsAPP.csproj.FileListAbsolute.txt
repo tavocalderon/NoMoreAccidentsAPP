@@ -1,0 +1,234 @@
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\NoMoreAccidentsAPP.exe.config
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\NoMoreAccidentsAPP.exe
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\NoMoreAccidentsAPP.pdb
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP.csproj.AssemblyReference.cache
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP_MarkupCompile.cache
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP_MarkupCompile.lref
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP.g.resources
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP.Properties.Resources.resources
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP.csproj.GenerateResource.cache
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP.csproj.CoreCompileInputs.cache
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP.exe
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP.pdb
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\Resources\Icons.baml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\ControlzEx.dll
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\EntityFramework.dll
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\MahApps.Metro.dll
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\MetroFramework.dll
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Buffers.dll
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Memory.dll
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Text.Json.dll
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.ValueTuple.dll
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\ControlzEx.pdb
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\ControlzEx.xml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\EntityFramework.xml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\MahApps.Metro.pdb
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\MahApps.Metro.xml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Buffers.xml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Memory.xml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Text.Json.xml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.ValueTuple.xml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP.csproj.CopyComplete
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\LobbyAPP.g.cs
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\LobbyAPP.baml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\AgregarProfesional.baml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\InformacionProfesional.baml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\ListarVistas.baml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\AgregarVisita.baml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\AgregarProfesional.g.cs
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\InformacionProfesional.g.cs
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\ListarVistas.g.cs
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\ListarAsesorias.g.cs
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\LoginAdministrador.g.cs
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\LoginProfesional.g.cs
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\AgregarVisita.g.cs
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\FichaAsesoriaAccidente.g.cs
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\RegistroLlamadas.g.cs
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\SolicitarAsesoria.g.cs
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\FichaAsesoriaAccidente.baml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\ListarAsesorias.baml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\LoginAdministrador.baml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\LoginProfesional.baml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\RegistroLlamadas.baml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\SolicitarAsesoria.baml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\MenuAdmin.baml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\MenuAdmin.g.cs
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\MenuProfesional.g.cs
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\MenuProfesional.baml
+C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\App.g.cs
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\NoMoreAccidentsAPP.exe.config
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\NoMoreAccidentsAPP.exe
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\NoMoreAccidentsAPP.pdb
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\ControlzEx.dll
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\EntityFramework.dll
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\MahApps.Metro.dll
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\MetroFramework.dll
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Buffers.dll
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Memory.dll
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Text.Json.dll
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.ValueTuple.dll
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\ControlzEx.pdb
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\ControlzEx.xml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\EntityFramework.xml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\MahApps.Metro.pdb
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\MahApps.Metro.xml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Buffers.xml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Memory.xml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Text.Json.xml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.ValueTuple.xml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP.csproj.AssemblyReference.cache
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\AgregarProfesional.baml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\InformacionProfesional.baml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\ListarVistas.baml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\MenuAdmin.baml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\LobbyAPP.baml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\AgregarVisita.baml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\Resources\Icons.baml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\AgregarProfesional.g.cs
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\InformacionProfesional.g.cs
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\ListarVistas.g.cs
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\MenuAdmin.g.cs
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\FichaAsesoriaAccidente.g.cs
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\ListarAsesorias.g.cs
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\LobbyAPP.g.cs
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\LoginAdministrador.g.cs
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\LoginProfesional.g.cs
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\AgregarVisita.g.cs
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\MenuProfesional.g.cs
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\RegistroLlamadas.g.cs
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\SolicitarAsesoria.g.cs
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\App.g.cs
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP_MarkupCompile.cache
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP_MarkupCompile.lref
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\FichaAsesoriaAccidente.baml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\ListarAsesorias.baml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\LoginAdministrador.baml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\LoginProfesional.baml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\MenuProfesional.baml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\RegistroLlamadas.baml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\SolicitarAsesoria.baml
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP.g.resources
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP.Properties.Resources.resources
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP.csproj.GenerateResource.cache
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP.csproj.CoreCompileInputs.cache
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP.csproj.CopyComplete
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP.exe
+C:\Users\Javier-Ntbk\Desktop\App Escritorio versiones\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP.pdb
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\NoMoreAccidentsAPP.exe.config
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\NoMoreAccidentsAPP.exe
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\NoMoreAccidentsAPP.pdb
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\ControlzEx.dll
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\EntityFramework.dll
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\MahApps.Metro.dll
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\MetroFramework.dll
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Buffers.dll
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Memory.dll
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Text.Json.dll
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.ValueTuple.dll
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\ControlzEx.pdb
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\ControlzEx.xml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\EntityFramework.xml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\MahApps.Metro.pdb
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\MahApps.Metro.xml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Buffers.xml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Memory.xml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Text.Json.xml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\System.ValueTuple.xml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP.csproj.AssemblyReference.cache
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\AgregarProfesional.baml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\InformacionProfesional.baml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\ListarVistas.baml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\LobbyAPP.baml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\AgregarVisita.baml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\Resources\Icons.baml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\AgregarProfesional.g.cs
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\InformacionProfesional.g.cs
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\ListarVistas.g.cs
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\MenuAdministrador.g.cs
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\FichaAsesoriaAccidente.g.cs
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\ListarAsesorias.g.cs
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\LobbyAPP.g.cs
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\LoginAdministrador.g.cs
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\LoginProfesional.g.cs
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\AgregarVisita.g.cs
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\MenuProfesional.g.cs
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\RegistroLlamadas.g.cs
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\SolicitarAsesoria.g.cs
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\App.g.cs
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP_MarkupCompile.cache
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP_MarkupCompile.lref
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\MenuAdministrador.baml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\FichaAsesoriaAccidente.baml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\ListarAsesorias.baml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\LoginAdministrador.baml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\LoginProfesional.baml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\MenuProfesional.baml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\RegistroLlamadas.baml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\SolicitarAsesoria.baml
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP.g.resources
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP.Properties.Resources.resources
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP.csproj.GenerateResource.cache
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP.csproj.CoreCompileInputs.cache
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP.csproj.CopyComplete
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP.exe
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP.pdb
