@@ -3,25 +3,25 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="NoMoreAccidentsAPP.LobbyAPP"
+        xmlns:local="clr-namespace:NoMoreAccidentsAPP.AdministradorUI"
         mc:Ignorable="d"
-        Title="LobbyAPP"
+        Title="AgregarProfesional"
         WindowStyle="None"
         ResizeMode="NoResize"
         WindowStartupLocation="CenterScreen"
         Background="Transparent"
-        AllowsTransparency="True" Width="755"
+        AllowsTransparency="True"
 
 >
     <Border CornerRadius="12" Margin="0,0,150,0">
         <Border.Background>
-            <ImageBrush ImageSource="C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\Imagenes\3479182.jpeg"
-                        Stretch="None"/>
+            <ImageBrush ImageSource="C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\IMG\fondoventanas.jpeg"
+                        Stretch="Fill"/>
         </Border.Background>
 
         <Border x:Name="LobbyAPPs" CornerRadius="10"                    
             BorderThickness="2"
-            Opacity="0.95" Margin="0,0,-1,0">
+            Opacity="0.95" Margin="0,0,-146,0" Width="764" HorizontalAlignment="Right">
 
             <Border.BorderBrush>
                 <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
@@ -134,7 +134,7 @@
                 </Grid>
 
                 <StackPanel
-                            Orientation="Vertical" Grid.RowSpan="2">
+                            Orientation="Vertical" Grid.RowSpan="2" Margin="0,0,150,0">
 
                     <TextBlock
                                Foreground="White"
@@ -182,14 +182,13 @@
                         </ControlTemplate>
                     </Button.Template>
                 </Button>
-                <TextBox Margin="246,60,148,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top"/>
-                <DatePicker HorizontalAlignment="Left" Margin="246,150,0,0" Grid.Row="1" VerticalAlignment="Top" Width="212"/>
-                <TextBox HorizontalAlignment="Left" Margin="246,105,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="212"/>
-                <TextBox HorizontalAlignment="Left" Margin="246,375,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="214"/>
-                <TextBox Margin="246,195,148,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top"/>
-                <TextBox HorizontalAlignment="Left" Margin="246,285,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="214"/>
-                <TextBox Margin="246,240,148,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top"/>
-                <TextBox HorizontalAlignment="Left" Margin="246,330,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="214"/>
+                <TextBox x:Name="txtContraseñaProfesional" Margin="320,276,232,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top"/>
+                <DatePicker x:Name="FechaContratoProfesional" HorizontalAlignment="Left" Margin="321,351,0,0" Grid.Row="1" VerticalAlignment="Top" Width="214"/>
+                <TextBox x:Name="txtNombreProfesional" HorizontalAlignment="Left" Margin="320,124,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="215"/>
+                <TextBox x:Name="txtCargoProfesional" HorizontalAlignment="Left" Margin="321,315,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="214"/>
+                <TextBox x:Name="txtAMaternoPro" Margin="321,197,231,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top"/>
+                <TextBox x:Name="txtRutProfesional" HorizontalAlignment="Left" Margin="321,85,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="214"/>
+                <TextBox x:Name="txtUsuarioProfesional" Margin="321,236,232,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top"/>
                 <Button x:Name="btnAgregarProfesional"                          
                     BorderThickness="0"
                     Content="GUARDAR"
@@ -226,50 +225,51 @@
                 </Button>
                 <TextBlock
                     Foreground="White"
-                    FontSize="20"
+                    FontSize="24"
                     FontWeight="Medium"
                     FontFamily="Montserrat"
-                    HorizontalAlignment="Center" Margin="180,13,196,440" Width="230" Grid.Row="1"><Run Text="AGREGAR "/><Run Text="PROFESIONAL"/></TextBlock>
+                    HorizontalAlignment="Center" Margin="270,42,207,411" Width="290" Grid.Row="1"><Run Text="AGREGAR "/><Run Text="PROFESIONAL"/></TextBlock>
                 <TextBlock
                     Foreground="White"
                     FontWeight="Medium"
                     FontFamily="Montserrat"
-                    HorizontalAlignment="Center" Margin="125,63,366,405" Grid.Row="1" Width="115"><Run Text="NOMBRE"/><Run Text=" COMPLETO"/></TextBlock>
-                <TextBlock Text="APELLIDOS"
+                    HorizontalAlignment="Center" Margin="259,129,457,351" Grid.Row="1" Width="51" Text="NOMBRE"/>
+                <TextBlock
                     Foreground="White"
                     FontWeight="Medium"
                     FontFamily="Montserrat"
-                    HorizontalAlignment="Center" Margin="175,108,371,370" Grid.Row="1" Width="60"/>
+                    HorizontalAlignment="Center" Margin="194,203,457,278" Grid.Row="1" Width="116" RenderTransformOrigin="-0.009,0.5"><Run Text="APELLIDO"/><Run Text=" "/><Run Text="M"/><Run Text="ATERNO"/></TextBlock>
                 <TextBlock Text="FECHA CONTRATO"
                     Foreground="White"
                     FontWeight="Medium"
                     FontFamily="Montserrat"
-                    HorizontalAlignment="Center" Margin="135,153,366,325" Grid.Row="1" Width="105"/>
+                    HorizontalAlignment="Center" Margin="204,360,457,118" Grid.Row="1" Width="106"/>
                 <TextBlock Text="USUARIO"
                     Foreground="White"
                     FontWeight="Medium"
                     FontFamily="Montserrat"
-                    HorizontalAlignment="Center" Margin="185,198,366,280" Grid.Row="1" Width="55"/>
+                    HorizontalAlignment="Center" Margin="256,239,457,239" Grid.Row="1" Width="54"/>
                 <TextBlock Text="CONTRASEÑA"
                     Foreground="White"
                     FontWeight="Medium"
                     FontFamily="Montserrat"
-                    HorizontalAlignment="Center" Margin="160,243,366,235" Grid.Row="1" Width="80"/>
+                    HorizontalAlignment="Center" Margin="230,279,457,199" Grid.Row="1" Width="80"/>
                 <TextBlock Text="RUT"
                     Foreground="White"
                     FontWeight="Medium"
                     FontFamily="Montserrat"
-                    HorizontalAlignment="Center" Margin="215,288,366,190" Grid.Row="1" Width="25"/>
+                    HorizontalAlignment="Center" Margin="286,88,457,390" Grid.Row="1" Width="24" RenderTransformOrigin="0.458,1.133"/>
                 <TextBlock Text="CARGO"
                     Foreground="White"
                     FontWeight="Medium"
                     FontFamily="Montserrat"
-                    HorizontalAlignment="Center" Margin="198,333,368,145" Grid.Row="1" Width="40"/>
-                <TextBlock Text="CLIENTE"
+                    HorizontalAlignment="Center" Margin="270,318,457,160" Grid.Row="1" Width="40"/>
+                <TextBox x:Name="txtApaternoPro_Copy" Margin="321,160,231,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top"/>
+                <TextBlock
                     Foreground="White"
                     FontWeight="Medium"
                     FontFamily="Montserrat"
-                    HorizontalAlignment="Center" Margin="193,373,368,95" Grid.Row="1" Width="45"/>
+                    HorizontalAlignment="Center" Margin="200,166,457,315" Grid.Row="1" Width="110" RenderTransformOrigin="-0.009,0.5"><Run Text="APELLIDO"/><Run Text=" "/><Run Text="PATERNO"/></TextBlock>
 
 
             </Grid>

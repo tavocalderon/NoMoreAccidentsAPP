@@ -19,7 +19,7 @@
                         Stretch="Fill"/>
         </Border.Background>
 
-        <Border x:Name="LobbyAPPs" CornerRadius="10"                    
+        <Border x:Name="MenuAdministradorR" CornerRadius="10"                    
             BorderThickness="2"
             Opacity="0.95" HorizontalAlignment="Left" Width="990">
 
@@ -156,7 +156,7 @@
                     FontSize="16"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="28,147,774,305"
+                    Margin="28,113,774,339"
                     Grid.Row="1">
 
 
@@ -196,7 +196,7 @@
                     FontSize="16"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="212,147,589,305"
+                    Margin="217,113,584,339"
                     Grid.Row="1">
 
 
@@ -230,7 +230,7 @@
                     FontSize="16"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="415,147,386,305"
+                    Margin="407,113,394,339"
                     Grid.Row="1">
 
 
@@ -264,7 +264,7 @@
                     FontSize="16"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="632,147,169,305"
+                    Margin="597,113,204,339"
                     Grid.Row="1">
 
 

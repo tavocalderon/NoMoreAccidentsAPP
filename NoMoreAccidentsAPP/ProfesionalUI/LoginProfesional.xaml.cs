@@ -47,14 +47,14 @@ namespace NoMoreAccidentsAPP
 
 
             string usernameprofesional = txtUsuarioProfesional.Text;
-            string passwordprofesional = txtPasswordProfesional.Text;
+            string passwordprofesional = txtPasswordProfesional.Password;
 
             string connectionString = ConfigurationManager.ConnectionStrings["Conexion"].ConnectionString;
 
             using (Oracle.ManagedDataAccess.Client.OracleConnection connection = new Oracle.ManagedDataAccess.Client.OracleConnection(connectionString))
             {
                 connection.Open();
-                string query = "SELECT COUNT(*) FROM USUARIO WHERE user_name = :username AND password = :password";
+                string query = "SELECT COUNT(*) FROM USUARIO WHERE user_name = :usernameprofesional AND password = :passwordprofesional";
                 using (Oracle.ManagedDataAccess.Client.OracleCommand cmd = new Oracle.ManagedDataAccess.Client.OracleCommand(query, connection))
                 {
                     cmd.Parameters.Add(":usernameprofesional", OracleDbType.Varchar2).Value = usernameprofesional;

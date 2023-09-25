@@ -1,0 +1,321 @@
+﻿<Window x:Class="NoMoreAccidentsAPP.AgregarAsesoria"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NoMoreAccidentsAPP.ProfesionalUI"
+        mc:Ignorable="d"
+        Title="AgregarAsesoria" Height="501.432" Width="914.433"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        Background="Transparent"
+        AllowsTransparency="True"
+
+>
+    <Border CornerRadius="12">
+        <Border.Background>
+            <ImageBrush ImageSource="C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\IMG\fondoventanas.jpeg"
+                        Stretch="Fill"/>
+        </Border.Background>
+
+        <Border x:Name="MenuAdministradorR" CornerRadius="10"                    
+            BorderThickness="2"
+            Opacity="0.95" HorizontalAlignment="Right" Width="914">
+
+            <Border.BorderBrush>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="#462AD8" Offset="0"/>
+                    <GradientStop Color="#DA34AE" Offset="0.75"/>
+                    <GradientStop Color="#8A16C1" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.BorderBrush>
+
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0,1" EndPoint="1,0">
+                    <GradientStop Color="#060531" Offset="0"/>
+                    <GradientStop Color="#1B1448" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+
+
+
+
+                <Grid Grid.Row="0">
+
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="25"/>
+                        <ColumnDefinition Width="25"/>
+                        <ColumnDefinition Width="5"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock Text="NO MORE ACCIDENTS APP"
+                               Foreground="DarkGray"
+                               FontSize="10"
+                               FontFamily="Montserrat"
+                               Grid.Column="0"
+                               VerticalAlignment="Center"
+                               Margin="10,0,0,0"/>
+
+                    <Button x:Name="btnMinimizarLobby"                           
+                            BorderThickness="0"
+                            Content="-"
+                            Foreground="White"
+                            FontSize="16"
+                            FontFamily="Montserrat"
+                            Cursor="Hand"
+                            Grid.Column="1"
+                            >
+
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background" Value="#28AEED"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#278BEF"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border Width="18" Height="18"
+                                        CornerRadius="9"
+                                        Background="{TemplateBinding Background}">
+                                    <ContentPresenter VerticalAlignment="Center"
+                                                      HorizontalAlignment="Center"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+
+                    </Button>
+
+                    <Button x:Name="btnCerrarLobby"                          
+                            BorderThickness="0"
+                            Content="X"
+                            Foreground="White"
+                            FontSize="12"
+                            FontFamily="Montserrat"
+                            Cursor="Hand"
+                            Grid.Column="2"
+                            >
+
+                        <Button.Style>
+                            <Style TargetType="Button">
+                                <Setter Property="Background" Value="#DA34AE"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="#C62DAE"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border Width="18" Height="18"
+                                        CornerRadius="9"
+                                        Background="{TemplateBinding Background}">
+                                    <ContentPresenter VerticalAlignment="Center"
+                                                      HorizontalAlignment="Center"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                </Grid>
+
+                <StackPanel Width="Auto"
+                            Orientation="Vertical"
+                            Margin="8,8,8,0" Grid.RowSpan="2">
+
+                    <TextBlock
+                               Foreground="White"
+                               FontSize="25"
+                               FontWeight="Medium"
+                               FontFamily="Montserrat"
+                               HorizontalAlignment="Center"/>
+
+                    <StackPanel Orientation="Horizontal"
+                                HorizontalAlignment="Center"
+                                Margin="0,15,0,0"/>
+
+                </StackPanel>
+                <TextBox HorizontalAlignment="Left" Height="182" Margin="33,192,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="292"/>
+                <TextBlock
+                    Foreground="White"
+                    FontWeight="Medium"
+                    FontFamily="Montserrat"
+                    HorizontalAlignment="Center" Margin="20,59,609,344" Grid.Row="1" Width="281" FontSize="16"><Run Text="Registro "/><Run Text="de Clientes"/><Run Text=" : #00X- ASESORIA"/></TextBlock>
+                <TextBlock Text="Registro Accidente : #00X- ASESORIA"
+                    Foreground="White"
+                    FontWeight="Medium"
+                    FontFamily="Montserrat"
+                    HorizontalAlignment="Center" Margin="20,20,609,424" Grid.Row="1" Width="281" FontSize="16"/>
+                <TextBlock
+                    Foreground="White"
+                    FontWeight="Medium"
+                    FontFamily="Montserrat"
+                    HorizontalAlignment="Center" Margin="20,103,609,344" Grid.Row="1" Width="281" FontSize="16"><Run Text="Registro A"/><Run Text="signado"/><Run Text=" : #00X- ASESORIA"/></TextBlock>
+                <ComboBox x:Name="CboxEstadoAccidente" HorizontalAlignment="Left" Margin="709,271,0,0" Grid.Row="1" VerticalAlignment="Top" Width="143"/>
+                <TextBlock
+                    Foreground="White"
+                    FontWeight="Medium"
+                    FontFamily="Montserrat"
+                    HorizontalAlignment="Center" Margin="709,59,95,392" Grid.Row="1" Width="106" FontSize="16" Text="Tipo Asesoría : "/>
+                <TextBox HorizontalAlignment="Left" Height="182" Margin="369,192,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="292"/>
+                <TextBlock
+                    Foreground="White"
+                    FontWeight="Medium"
+                    FontFamily="Montserrat"
+                    HorizontalAlignment="Center" Margin="33,169,711,243" Grid.Row="1" Width="166" FontSize="16"><Run Text="Descripcion Accidente"/><Run Text=" "/></TextBlock>
+                <TextBlock
+                    Foreground="White"
+                    FontWeight="Medium"
+                    FontFamily="Montserrat"
+                    HorizontalAlignment="Center" Margin="393,169,373,242" Grid.Row="1" Width="144" FontSize="16"><Run Text="Detalle Asesor"/><Run Text="í"/><Run Text="a"/></TextBlock>
+                <TextBlock
+                    Foreground="White"
+                    FontWeight="Medium"
+                    FontFamily="Montserrat"
+                    HorizontalAlignment="Center" Margin="709,247,70,201" Grid.Row="1" Width="131" FontSize="16" Text="Estado Accidente:"/>
+                <TextBlock
+                    Foreground="White"
+                    FontWeight="Medium"
+                    FontFamily="Montserrat"
+                    HorizontalAlignment="Center" Margin="709,117,40,323" Grid.Row="1" Width="161" FontSize="16" Text="Fecha de Inicio : "/>
+                <TextBlock
+                    Foreground="White"
+                    FontWeight="Medium"
+                    FontFamily="Montserrat"
+                    HorizontalAlignment="Center" Margin="709,155,50,288" Grid.Row="1" Width="151" FontSize="16" Text="Fecha de termino: "/>
+                <TextBlock
+                    Foreground="White"
+                    FontWeight="Medium"
+                    FontFamily="Montserrat"
+                    HorizontalAlignment="Center" Margin="352,20,312,383" Grid.Row="1" Width="246" FontSize="16" Text="Fecha de reporte : dd/MM/YYYY"/>
+                <Button x:Name="btnIdentificarProfesional"                          
+                    BorderThickness="0"
+                    Content="BUSCAR"
+                    Foreground="White"
+                    FontSize="12"
+                    FontFamily="Montserrat"
+                    Cursor="Hand"                           
+                    Margin="204,406,556,21"
+                    Click="BtnIdentificarProfesional_Click" Grid.Row="1">
+
+                    <Button.Style>
+                        <Style TargetType="{x:Type Button}">
+                            <Setter Property="Background" Value="#462AD8"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="#28AEED"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+
+                    <Button.Template>
+                        <ControlTemplate TargetType="{x:Type Button}">
+                            <Border Width="100" Height="35"
+                                CornerRadius="20"
+                                Background="{TemplateBinding Background}">
+                                <ContentPresenter VerticalAlignment="Center"
+                                    HorizontalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+                <Button x:Name="btnRetrocederAsesoria"                          
+                    BorderThickness="0"
+                    Content="VOLVER"
+                    Foreground="White"
+                    FontSize="12"
+                    FontFamily="Montserrat"
+                    Cursor="Hand"                           
+                    Margin="605,406,152,21"
+                    Click="BtnVolverAsesoria_Click" Grid.Row="1">
+
+                    <Button.Style>
+                        <Style TargetType="{x:Type Button}">
+                            <Setter Property="Background" Value="#462AD8"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="#28AEED"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+
+                    <Button.Template>
+                        <ControlTemplate TargetType="{x:Type Button}">
+                            <Border Width="100" Height="35"
+                                CornerRadius="20"
+                                Background="{TemplateBinding Background}">
+                                <ContentPresenter VerticalAlignment="Center"
+                                    HorizontalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+                <Button x:Name="btnGuardarAsesoría"                          
+                    BorderThickness="0"
+                    Content="GUARDAR"
+                    Foreground="White"
+                    FontSize="12"
+                    FontFamily="Montserrat"
+                    Cursor="Hand"                           
+                    Margin="737,406,22,21"
+                    Click="BtnAgregarAsesoria_Click" Grid.Row="1">
+
+                    <Button.Style>
+                        <Style TargetType="{x:Type Button}">
+                            <Setter Property="Background" Value="#462AD8"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="#28AEED"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+
+                    <Button.Template>
+                        <ControlTemplate TargetType="{x:Type Button}">
+                            <Border Width="100" Height="35"
+                                CornerRadius="20"
+                                Background="{TemplateBinding Background}">
+                                <ContentPresenter VerticalAlignment="Center"
+                                    HorizontalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+                <TextBox x:Name="txtBoxProfesionalAsignado" HorizontalAlignment="Left" Height="25" Margin="33,415,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="166"/>
+                <TextBlock
+                    Foreground="White"
+                    FontWeight="Medium"
+                    FontFamily="Montserrat"
+                    HorizontalAlignment="Center" Margin="33,394,711,57" Grid.Row="1" Width="166" Text="Profesional Asignado" FontSize="14"/>
+                <ComboBox x:Name="CboxTipoAsesoria" HorizontalAlignment="Left" Margin="709,80,0,0" Grid.Row="1" VerticalAlignment="Top" Width="143"/>
+
+
+
+
+
+
+            </Grid>
+
+        </Border>
+
+    </Border>
+
+</Window>

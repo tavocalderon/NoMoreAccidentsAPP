@@ -4,8 +4,8 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:NoMoreAccidentsAPP.AdministradorUI"
-        mc:Ignorable="d"
-        Title="Listar Asesorias" Height="545" Width="805"
+          mc:Ignorable="d"
+        Title="Menu Profesional" Height="545" Width="991"
         WindowStyle="None"
         ResizeMode="NoResize"
         WindowStartupLocation="CenterScreen"
@@ -16,12 +16,12 @@
     <Border CornerRadius="12">
         <Border.Background>
             <ImageBrush ImageSource="C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\IMG\fondoventanas.jpeg"
-                        Stretch="None"/>
+                        Stretch="Fill"/>
         </Border.Background>
 
-        <Border x:Name="LobbyAPPs" CornerRadius="10"                    
+        <Border x:Name="LobbyAPPss" CornerRadius="10"                    
             BorderThickness="2"
-            Opacity="0.95" HorizontalAlignment="Left" Width="805">
+            Opacity="0.95" HorizontalAlignment="Left" Width="990">
 
             <Border.BorderBrush>
                 <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
@@ -57,7 +57,7 @@
                         <ColumnDefinition Width="5"/>
                     </Grid.ColumnDefinitions>
 
-                    <TextBlock Text="NO MORE ACCIDENTS APP | Listado Asesorias"
+                    <TextBlock Text="NO MORE ACCIDENTS APP | LISTADO ASESORÍAS (ADMINISTRADOR)"
                                Foreground="DarkGray"
                                FontSize="10"
                                FontFamily="Montserrat"
@@ -149,17 +149,24 @@
                                 Margin="0,15,0,0"/>
 
                 </StackPanel>
-                <Button x:Name="btnAgregarAsesoria"                          
+                <TextBlock Text="MENÚ PROFESIONAL"
+                    Foreground="White"
+                    FontSize="30"
+                    FontWeight="Medium"
+                    FontFamily="Montserrat"
+                    HorizontalAlignment="Center" Margin="316,23,376,448" Grid.Row="1" Width="294"/>
+                <TextBox HorizontalAlignment="Left" Height="31" Margin="47,110,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="212" TextChanged="TextBox_TextChanged"/>
+                <DataGrid HorizontalAlignment="Left" Height="212" Margin="47,171,0,0" Grid.Row="1" VerticalAlignment="Top" Width="896"/>
+                <Button x:Name="btnVerPerfil"                          
                     BorderThickness="0"
-                    Content="NUEVA ASESORIA"
+                    Content="VER PERFIL"
                     Foreground="White"
                     FontSize="12"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="278,368,278,73"
-                    Grid.Row="1" Click="btnAgregarAsesoria_Click">
-
-
+                    Margin="286,101,544,370" Click="btnLoginProfesional_Click"
+                            Grid.Row="1"
+                            >
 
                     <Button.Style>
                         <Style TargetType="{x:Type Button}">
@@ -183,16 +190,60 @@
                         </ControlTemplate>
                     </Button.Template>
                 </Button>
-                <TextBlock
+                <TextBlock Text="Buscar Profesional"
                     Foreground="White"
-                    FontSize="30"
+                    FontSize="20"
                     FontWeight="Medium"
                     FontFamily="Montserrat"
-                    HorizontalAlignment="Center" Margin="234,27,227,444" Grid.Row="1" Width="340"><Run Text="LISTA"/><Run Text="DO ASESORIAS"/></TextBlock>
-                <Grid HorizontalAlignment="Left" Height="100" Margin="263,173,0,0" Grid.Row="1" VerticalAlignment="Top" Width="100"/>
+                    HorizontalAlignment="Center" Margin="47,83,772,406" Grid.Row="1" Width="167"/>
+                <Button x:Name="btnVolverListado"                          
+                    BorderThickness="0"
+                    Content="VOLVER"
+                    Foreground="White"
+                    FontSize="12"
+                    FontFamily="Montserrat"
+                    Cursor="Hand"                           
+                    Margin="670,447,-54,24" Click="btnLoginProfesional_Click"
+                    Grid.Row="1"
+                            >
+
+                    <Button.Style>
+                        <Style TargetType="{x:Type Button}">
+                            <Setter Property="Background" Value="#462AD8"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="#28AEED"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+
+                    <Button.Template>
+                        <ControlTemplate TargetType="{x:Type Button}">
+                            <Border Width="150" Height="40"
+                                CornerRadius="20"
+                                Background="{TemplateBinding Background}">
+                                <ContentPresenter VerticalAlignment="Center"
+                                    HorizontalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+                <TextBlock Text="Disponibilidad()"
+                    Foreground="White"
+                    FontSize="20"
+                    FontWeight="Medium"
+                    FontFamily="Montserrat"
+                    HorizontalAlignment="Center" Margin="556,87,264,402" Grid.Row="1" Width="166"/>
+                <TextBlock
+                    Foreground="White"
+                    FontSize="20"
+                    FontWeight="Medium"
+                    FontFamily="Montserrat"
+                    HorizontalAlignment="Center" Margin="556,118,128,371" Grid.Row="1" Width="302"><Run Text="Fecha próxima actividad"/><Run Text=": -------"/></TextBlock>
 
 
-                <DataGrid x:Name="dataGrid" Height="261" Margin="109,82,109,0" VerticalAlignment="Top" Grid.Row="1"/>
+
 
 
             </Grid>

@@ -18,9 +18,23 @@ namespace NoMoreAccidents.DALC
 
         public void Conectar()
         {
-            OracleConnection conexion = new OracleConnection(conexionstring);
-            conexion.Open();
-            MessageBox.Show("Conexion Exitosa");
+            try
+            {
+                OracleConnection conexion = new OracleConnection(conexionstring);
+                conexion.Open();
+                MessageBox.Show("Conexión Exitosa");
+                // Aquí puedes realizar otras operaciones con la conexión si es necesario
+            }
+            catch (OracleException ex)
+            {
+                // Manejo de excepciones de Oracle
+                MessageBox.Show("Error de conexión: " + ex.Message);
+            }
+            catch (Exception ex)
+            {
+                // Manejo de otras excepciones
+                MessageBox.Show("Error: " + ex.Message);
+            }
         }
     }
 }

@@ -46,8 +46,8 @@ namespace NoMoreAccidentsAPP
 
 
 
-           // AdministradorUI AdminUI = new AdministradorUI();
-        //    AdminUI.Show();
+            MenuAdministrador MAdmin = new MenuAdministrador();
+            MAdmin.ShowDialog();
 
         }
 

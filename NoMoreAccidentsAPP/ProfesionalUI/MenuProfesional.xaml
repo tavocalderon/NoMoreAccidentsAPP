@@ -15,7 +15,7 @@
 >
     <Border CornerRadius="12">
         <Border.Background>
-            <ImageBrush ImageSource="C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\Imagenes\3479182.jpeg"
+            <ImageBrush ImageSource="C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\IMG\fondoventanas.jpeg"
                         Stretch="Fill"/>
         </Border.Background>
 
@@ -151,12 +151,12 @@
                 </StackPanel>
                 <Button x:Name="btnAgregarAsesoria"                          
                     BorderThickness="0"
-                    Content="AGREGAR ASESORIA"
+                    Content="HISTORIAL"
                     Foreground="White"
                     FontSize="16"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="38,78,763,374"
+                    Margin="0,78,801,374"
                     Grid.Row="1">
 
 
@@ -183,7 +183,7 @@
                         </ControlTemplate>
                     </Button.Template>
                 </Button>
-                <TextBlock Text="MENÚ PROFESIONAL"
+                <TextBlock Text="Bienvenido Sr.##### "
                     Foreground="White"
                     FontSize="30"
                     FontWeight="Medium"
@@ -191,12 +191,12 @@
                     HorizontalAlignment="Center" Margin="223,23,168,448" Grid.Row="1" Width="410"/>
                 <Button x:Name="btnAgregarAsesoria_Copy"                          
                     BorderThickness="0"
-                    Content="LISTAR ASESORIAS"
+                    Content="CLIENTES"
                     Foreground="White"
                     FontSize="16"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="228,78,573,374"
+                    Margin="0,142,801,310"
                     Grid.Row="1">
 
 
@@ -225,12 +225,12 @@
                 </Button>
                 <Button x:Name="btnAgregarAsesoria_Copy1"                          
                     BorderThickness="0"
-                    Content="LISTAR VISITAS"
+                    Content="FORMULARIO ASESORIA"
                     Foreground="White"
                     FontSize="16"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="418,78,383,374"
+                    Margin="0,316,775,136"
                     Grid.Row="1">
 
 
@@ -259,12 +259,12 @@
                 </Button>
                 <Button x:Name="btnAgregarAsesoria_Copy2"                          
                     BorderThickness="0"
-                    Content="INFO PROFESIONAL"
+                    Content="CALENDARIO"
                     Foreground="White"
                     FontSize="16"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="608,78,193,374"
+                    Margin="10,390,791,62"
                     Grid.Row="1">
 
 
@@ -291,6 +291,7 @@
                         </ControlTemplate>
                     </Button.Template>
                 </Button>
+                <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="173" Margin="515,226,0,0" Grid.Row="1" Stroke="Black" VerticalAlignment="Top" Width="436"/>
 
 
 

@@ -15,7 +15,7 @@
 >
     <Border CornerRadius="12">
         <Border.Background>
-            <ImageBrush ImageSource="C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\Imagenes\3479182.jpeg"
+            <ImageBrush ImageSource="C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\IMG\fondoventanas.jpeg"
                         Stretch="None"/>
         </Border.Background>
 

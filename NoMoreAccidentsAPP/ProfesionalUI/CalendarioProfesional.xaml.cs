@@ -12,16 +12,16 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace NoMoreAccidentsAPP
+namespace NoMoreAccidentsAPP.ProfesionalUI
 {
     /// <summary>
-    /// Lógica de interacción para RegistroLlamadas.xaml
+    /// Lógica de interacción para CalendarioProfesional.xaml
     /// </summary>
-    public partial class RegistroLlamadas : Window
+    public partial class CalendarioProfesional : Window
     {
-        public RegistroLlamadas()
+        public CalendarioProfesional()
         {
-           
+            InitializeComponent();
         }
     }
 }

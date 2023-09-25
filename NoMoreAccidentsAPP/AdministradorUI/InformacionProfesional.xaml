@@ -15,7 +15,7 @@
 >
     <Border CornerRadius="12">
         <Border.Background>
-            <ImageBrush ImageSource="C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\Imagenes\3479182.jpeg"
+            <ImageBrush ImageSource="C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\IMG\fondoventanas.jpeg"
                         Stretch="None"/>
         </Border.Background>
 
@@ -198,7 +198,7 @@
                     FontWeight="Medium"
                     FontFamily="Montserrat"
                     HorizontalAlignment="Center" Margin="68,353,628,143" Grid.Row="1" Width="105"/>
-                <Image HorizontalAlignment="Left" Height="160" Margin="523,83,0,0" Grid.Row="1" VerticalAlignment="Top" Width="180" Source="C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\Imagenes\symbole-masculin-icone-l-utilisateur-violet.png"/>
+                <Image HorizontalAlignment="Left" Height="160" Margin="523,83,0,0" Grid.Row="1" VerticalAlignment="Top" Width="180" Source="C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\IMG\symbole-masculin-icone-l-utilisateur-violet.png"/>
                 <Button x:Name="btnVolverProfesional"                          
                     BorderThickness="0"
                     Content="GENERAR REPORTE "

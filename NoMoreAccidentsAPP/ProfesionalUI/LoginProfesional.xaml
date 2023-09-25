@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:NoMoreAccidentsAPP"
+        xmlns:local="clr-namespace:NoMoreAccidentsAPP.ProfesionalUI"
         mc:Ignorable="d"
         Title="LoginProfesional" Height="495" Width="445"
         WindowStyle="None"
@@ -189,7 +189,7 @@
                                FontFamily="Montserrat"                             
                                Margin="0,15,0,0"/>
 
-                    <TextBox x:Name="txtPasswordProfesional"
+                    <PasswordBox x:Name="txtPasswordProfesional"
                              FontSize="13"
                              FontWeight="Medium"
                              FontFamily="Montserrat"                            
@@ -202,12 +202,12 @@
                              Margin="0,5,0,0"
                              Padding="20,0,0,0">
 
-                        <TextBox.Background>
+                        <PasswordBox.Background>
                             <ImageBrush ImageSource="C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\IMG\key-icon.png"
                                         Stretch="None"
                                         AlignmentX="Left"/>
-                        </TextBox.Background>
-                    </TextBox>
+                        </PasswordBox.Background>
+                    </PasswordBox>
 
                     <Button x:Name="btnLoginProfesional"                          
                             BorderThickness="0"

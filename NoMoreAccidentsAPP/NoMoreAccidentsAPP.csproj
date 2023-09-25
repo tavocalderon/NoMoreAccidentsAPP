@@ -136,8 +136,17 @@
     <Compile Include="AdministradorUI\MenuAdministrador.xaml.cs">
       <DependentUpon>MenuAdministrador.xaml</DependentUpon>
     </Compile>
-    <Compile Include="ProfesionalUI\FichaAsesoriaAccidente.xaml.cs">
-      <DependentUpon>FichaAsesoriaAccidente.xaml</DependentUpon>
+    <Compile Include="AdministradorUI\RegistroLlamadas.xaml.cs">
+      <DependentUpon>RegistroLlamadas.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministradorUI\ReporteGlobal.xaml.cs">
+      <DependentUpon>ReporteGlobal.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AdministradorUI\ReporteQuincenal.xaml.cs">
+      <DependentUpon>ReporteQuincenal.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ProfesionalUI\AgregarAsesoria.xaml.cs">
+      <DependentUpon>AgregarAsesoria.xaml</DependentUpon>
     </Compile>
     <Compile Include="AdministradorUI\ListarAsesorias.xaml.cs">
       <DependentUpon>ListarAsesorias.xaml</DependentUpon>
@@ -151,14 +160,32 @@
     <Compile Include="ProfesionalUI\AgregarVisita.xaml.cs">
       <DependentUpon>AgregarVisita.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ProfesionalUI\AsistenciaProfesional.xaml.cs">
+      <DependentUpon>AsistenciaProfesional.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ProfesionalUI\CalendarioProfesional.xaml.cs">
+      <DependentUpon>CalendarioProfesional.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ProfesionalUI\CapacitacionProfesional.xaml.cs">
+      <DependentUpon>CapacitacionProfesional.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ProfesionalUI\FichaAsesoria.xaml.cs">
+      <DependentUpon>FichaAsesoria.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ProfesionalUI\Historial.xaml.cs">
+      <DependentUpon>Historial.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ProfesionalUI\ListadoVisitasAsignadas.xaml.cs">
+      <DependentUpon>ListadoVisitasAsignadas.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ProfesionalUI\MenuProfesional.xaml.cs">
       <DependentUpon>MenuProfesional.xaml</DependentUpon>
     </Compile>
-    <Compile Include="ProfesionalUI\RegistroLlamadas.xaml.cs">
-      <DependentUpon>RegistroLlamadas.xaml</DependentUpon>
+    <Compile Include="AdministradorUI\FichaAccidentes.xaml.cs">
+      <DependentUpon>FichaAccidentes.xaml</DependentUpon>
     </Compile>
-    <Compile Include="ProfesionalUI\SolicitarAsesoria.xaml.cs">
-      <DependentUpon>SolicitarAsesoria.xaml</DependentUpon>
+    <Compile Include="ProfesionalUI\RevisarCumplimientoChecklist.xaml.cs">
+      <DependentUpon>RevisarCumplimientoChecklist.xaml</DependentUpon>
     </Compile>
     <Page Include="AdministradorUI\AgregarProfesional.xaml">
       <SubType>Designer</SubType>
@@ -176,7 +203,19 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="ProfesionalUI\FichaAsesoriaAccidente.xaml">
+    <Page Include="AdministradorUI\RegistroLlamadas.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AdministradorUI\ReporteGlobal.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AdministradorUI\ReporteQuincenal.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ProfesionalUI\AgregarAsesoria.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -189,6 +228,30 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="AdministradorUI\LoginAdministrador.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ProfesionalUI\AsistenciaProfesional.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ProfesionalUI\CalendarioProfesional.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ProfesionalUI\CapacitacionProfesional.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ProfesionalUI\FichaAsesoria.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ProfesionalUI\Historial.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ProfesionalUI\ListadoVisitasAsignadas.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -211,7 +274,19 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="ProfesionalUI\RegistroLlamadas.xaml">
+    <Page Include="AdministradorUI\FichaAccidentes.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ProfesionalUI\RevisarCumplimientoChecklist.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ProfesionalUI\ventanaexample.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ProfesionalUI\VisualizarInformacionCliente.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -223,12 +298,14 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="ProfesionalUI\SolicitarAsesoria.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ProfesionalUI\ventanaexample.xaml.cs">
+      <DependentUpon>ventanaexample.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ProfesionalUI\VisualizarInformacionCliente.xaml.cs">
+      <DependentUpon>VisualizarInformacionCliente.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>

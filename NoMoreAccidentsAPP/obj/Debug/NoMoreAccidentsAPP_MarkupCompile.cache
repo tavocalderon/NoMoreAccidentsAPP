@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\ProfesionalUI\App.xaml
-151980723285
+15-300624915
 
-17-542286142
+171524696190
 40-1663436245
-AdministradorUI\AgregarProfesional.xaml;AdministradorUI\InformacionProfesional.xaml;AdministradorUI\ListarVistas.xaml;AdministradorUI\MenuAdministrador.xaml;ProfesionalUI\FichaAsesoriaAccidente.xaml;AdministradorUI\ListarAsesorias.xaml;LobbyAPP.xaml;AdministradorUI\LoginAdministrador.xaml;ProfesionalUI\LoginProfesional.xaml;ProfesionalUI\AgregarVisita.xaml;ProfesionalUI\MenuProfesional.xaml;ProfesionalUI\RegistroLlamadas.xaml;Resources\Icons.xaml;Resources\IconsNonShared.xaml;ProfesionalUI\SolicitarAsesoria.xaml;
+AdministradorUI\AgregarProfesional.xaml;AdministradorUI\InformacionProfesional.xaml;AdministradorUI\ListarVistas.xaml;AdministradorUI\MenuAdministrador.xaml;ProfesionalUI\AgregarAsesoria.xaml;AdministradorUI\ListarAsesorias.xaml;LobbyAPP.xaml;AdministradorUI\LoginAdministrador.xaml;ProfesionalUI\LoginProfesional.xaml;ProfesionalUI\AgregarVisita.xaml;ProfesionalUI\MenuProfesional.xaml;ProfesionalUI\RegistroLlamadas.xaml;Resources\Icons.xaml;Resources\IconsNonShared.xaml;ProfesionalUI\SolicitarAsesoria.xaml;
 
-False
+True
 

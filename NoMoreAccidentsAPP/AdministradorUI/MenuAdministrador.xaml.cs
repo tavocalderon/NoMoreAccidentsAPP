@@ -21,7 +21,7 @@ namespace NoMoreAccidentsAPP.AdministradorUI
     {
         public MenuAdmin()
         {
-          
+         
         }
     }
 }

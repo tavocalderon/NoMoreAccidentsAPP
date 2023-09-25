@@ -12,16 +12,26 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace NoMoreAccidentsAPP
+namespace NoMoreAccidentsAPP.AdministradorUI
 {
     /// <summary>
-    /// Lógica de interacción para SolicitarAsesoria.xaml
+    /// Lógica de interacción para ReporteQuincenal.xaml
     /// </summary>
-    public partial class SolicitarAsesoria : Window
+    public partial class ReporteQuincenal : Window
     {
-        public SolicitarAsesoria()
+        public ReporteQuincenal()
         {
             InitializeComponent();
+        }
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
+
+        private void TextBox_TextChanged_1(object sender, TextChangedEventArgs e)
+        {
+
         }
     }
 }
