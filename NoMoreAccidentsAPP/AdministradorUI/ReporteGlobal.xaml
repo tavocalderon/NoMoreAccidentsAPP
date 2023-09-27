@@ -57,13 +57,13 @@
                         <ColumnDefinition Width="5"/>
                     </Grid.ColumnDefinitions>
 
-                    <TextBlock Text="NO MORE ACCIDENTS APP"
+                    <TextBlock
                                Foreground="DarkGray"
                                FontSize="10"
                                FontFamily="Montserrat"
                                Grid.Column="0"
                                VerticalAlignment="Center"
-                               Margin="10,0,0,0"/>
+                               Margin="10,0,0,0"><Run Text="NO MORE ACCIDENTS APP"/><Run Text=" "/><Run Text="|  REPORTE GLOBAL (ADMINISTRADOR)"/></TextBlock>
 
                     <Button x:Name="btnMinimizarLobby"                           
                             BorderThickness="0"
@@ -261,7 +261,7 @@
                     Foreground="White"
                     FontWeight="Medium"
                     FontFamily="Montserrat"
-                    HorizontalAlignment="Center" Margin="23,282,608,210" Grid.Row="1" Width="174" FontSize="16" Text="RENDIMIENTO GLOBAL"/>
+                    HorizontalAlignment="Center" Margin="23,288,608,210" Grid.Row="1" Width="174" FontSize="16" Text="RENDIMIENTO GLOBAL"/>
                 <Button x:Name="btnConfirmarCheck_Copy"                          
                     BorderThickness="0"
                     Content="GUARDAR"

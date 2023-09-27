@@ -56,13 +56,13 @@
                         <ColumnDefinition Width="5"/>
                     </Grid.ColumnDefinitions>
 
-                    <TextBlock Text="NO MORE ACCIDENTS APP"
+                    <TextBlock
                                Foreground="DarkGray"
                                FontSize="10"
                                FontFamily="Montserrat"
                                Grid.Column="0"
                                VerticalAlignment="Center"
-                               Margin="10,0,0,0"/>
+                               Margin="10,0,0,0"><Run Text="NO MORE ACCIDENTS APP"/><Run Text=" | "/><Run Text=" REPORTE QUINCENAL (ADMINISTRADOR)"/></TextBlock>
 
                     <Button x:Name="btnMinimizarLobby"                           
                             BorderThickness="0"
