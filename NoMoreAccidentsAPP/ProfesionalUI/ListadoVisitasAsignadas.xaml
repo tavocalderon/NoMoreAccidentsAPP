@@ -151,15 +151,21 @@
                 </StackPanel>
                 <TextBox HorizontalAlignment="Left" Height="31" Margin="47,110,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="212" TextChanged="TextBox_TextChanged"/>
                 <DataGrid HorizontalAlignment="Left" Height="212" Margin="47,171,0,0" Grid.Row="1" VerticalAlignment="Top" Width="896"/>
-                <Button x:Name="btnVerPerfil"                          
+                <TextBlock
+                    Foreground="White"
+                    FontSize="18"
+                    FontWeight="Medium"
+                    FontFamily="Montserrat"
+                    HorizontalAlignment="Center" Margin="47,86,815,406" Grid.Row="1" Width="124"><Run Text="Buscar "/><Run Text="Cliente"/></TextBlock>
+                <Button x:Name="btnVolverListado"                          
                     BorderThickness="0"
-                    Content="VER PERFIL"
+                    Content="VOLVER"
                     Foreground="White"
                     FontSize="12"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="286,101,544,370" Click="btnLoginProfesional_Click"
-                            Grid.Row="1"
+                    Margin="670,447,-54,24" Click="btnLoginProfesional_Click"
+                    Grid.Row="1"
                             >
 
                     <Button.Style>
@@ -184,26 +190,20 @@
                         </ControlTemplate>
                     </Button.Template>
                 </Button>
-                <TextBlock
-                    Foreground="White"
-                    FontSize="18"
-                    FontWeight="Medium"
-                    FontFamily="Montserrat"
-                    HorizontalAlignment="Center" Margin="47,86,815,406" Grid.Row="1" Width="124"><Run Text="Buscar "/><Run Text="Cliente"/></TextBlock>
-                <Button x:Name="btnVolverListado"                          
+                <Button x:Name="btnConfirmarCheck_Copy"                          
                     BorderThickness="0"
-                    Content="VOLVER"
+                    Content="VER PERFIL"
                     Foreground="White"
                     FontSize="12"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="670,447,-54,24" Click="btnLoginProfesional_Click"
+                    Margin="286,101,544,370.333" Click="btnLoginProfesional_Click"
                     Grid.Row="1"
                             >
 
                     <Button.Style>
                         <Style TargetType="{x:Type Button}">
-                            <Setter Property="Background" Value="#462AD8"/>
+                            <Setter Property="Background" Value="#DA34AE"/>
                             <Style.Triggers>
                                 <Trigger Property="IsMouseOver" Value="True">
                                     <Setter Property="Background" Value="#28AEED"/>

@@ -149,6 +149,79 @@
                                 Margin="0,15,0,0"/>
 
                 </StackPanel>
+                <DataGrid HorizontalAlignment="Left" Height="298" Margin="59,161,0,0" Grid.Row="1" VerticalAlignment="Top" Width="877"/>
+                <TextBlock Text="CAPACITACION #001"
+                    Foreground="White"
+                    FontSize="15"
+                    FontWeight="Medium"
+                    FontFamily="Montserrat"
+                    HorizontalAlignment="Center" Margin="59,68,774,423.333" Grid.Row="1" Width="153"/>
+                <Button x:Name="btnConfirmarCheck_Copy"                          
+                    BorderThickness="0"
+                    Content="GUARDAR"
+                    Foreground="White"
+                    FontSize="12"
+                    FontFamily="Montserrat"
+                    Cursor="Hand"                           
+                    Margin="800,58,30,413.333" Click="btnLoginProfesional_Click"
+                    Grid.Row="1"
+                            >
+
+                    <Button.Style>
+                        <Style TargetType="{x:Type Button}">
+                            <Setter Property="Background" Value="#DA34AE"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="#28AEED"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+
+                    <Button.Template>
+                        <ControlTemplate TargetType="{x:Type Button}">
+                            <Border Width="150" Height="40"
+                                CornerRadius="20"
+                                Background="{TemplateBinding Background}">
+                                <ContentPresenter VerticalAlignment="Center"
+                                    HorizontalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+                <Button x:Name="btnConfirmarCheck_Copy1"                          
+                    BorderThickness="0"
+                    Content="VOLVER"
+                    Foreground="White"
+                    FontSize="12"
+                    FontFamily="Montserrat"
+                    Cursor="Hand"                           
+                    Margin="618,58,212,413.333" Click="btnLoginProfesional_Click"
+                    Grid.Row="1"
+                            >
+
+                    <Button.Style>
+                        <Style TargetType="{x:Type Button}">
+                            <Setter Property="Background" Value="#462AD8"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="#28AEED"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+
+                    <Button.Template>
+                        <ControlTemplate TargetType="{x:Type Button}">
+                            <Border Width="150" Height="40"
+                                CornerRadius="20"
+                                Background="{TemplateBinding Background}">
+                                <ContentPresenter VerticalAlignment="Center"
+                                    HorizontalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
 
 
 

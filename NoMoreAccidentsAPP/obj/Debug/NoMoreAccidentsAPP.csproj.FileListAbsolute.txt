@@ -233,3 +233,16 @@ C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccid
 C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP.exe
 C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\NoMoreAccidentsAPP.pdb
 C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\AgregarAsesoria.g.cs
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\RegistroLlamadas.g.cs
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\ReporteQuincenal.g.cs
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\AsistenciaProfesional.g.cs
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\CalendarioProfesional.g.cs
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\CapacitacionProfesional.g.cs
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\FichaAsesoria.g.cs
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\Historial.g.cs
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\ListadoVisitasAsignadas.g.cs
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\FichaAccidentes.g.cs
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\RevisarCumplimientoChecklist.g.cs
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\ventanaexample.g.cs
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\ProfesionalUI\VisualizarInformacionCliente.g.cs
+C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\obj\Debug\AdministradorUI\ReporteGlobal.g.cs

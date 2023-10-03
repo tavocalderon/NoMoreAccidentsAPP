@@ -189,38 +189,6 @@
                     FontWeight="Medium"
                     FontFamily="Montserrat"
                     HorizontalAlignment="Center" Margin="515,424,59,69" Grid.Row="1" Width="230"><Run Text="Fecha próxima actividad"/><Run Text=" : -----"/></TextBlock>
-                <Button x:Name="btnRetrocederAsesoria_Copy2"                          
-                    BorderThickness="0"
-                    Content="ACEPTAR&#xA;"
-                    Foreground="White"
-                    FontSize="14"
-                    FontFamily="Montserrat"
-                    Cursor="Hand"                           
-                    Margin="274,69,428,416"
-                    Click="BtnVolverAsesoria_Click" Grid.Row="1">
-
-                    <Button.Style>
-                        <Style TargetType="{x:Type Button}">
-                            <Setter Property="Background" Value="#462AD8"/>
-                            <Style.Triggers>
-                                <Trigger Property="IsMouseOver" Value="True">
-                                    <Setter Property="Background" Value="#28AEED"/>
-                                </Trigger>
-                            </Style.Triggers>
-                        </Style>
-                    </Button.Style>
-
-                    <Button.Template>
-                        <ControlTemplate TargetType="{x:Type Button}">
-                            <Border Width="100" Height="35"
-                                CornerRadius="20"
-                                Background="{TemplateBinding Background}">
-                                <ContentPresenter VerticalAlignment="Center"
-                                    HorizontalAlignment="Center"/>
-                            </Border>
-                        </ControlTemplate>
-                    </Button.Template>
-                </Button>
                 <Button x:Name="btnRetrocederAsesoria_Copy"                          
                     BorderThickness="0"
                     Content="VER DETALLE"
@@ -228,7 +196,7 @@
                     FontSize="14"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="264,114,405,364"
+                    Margin="169,125,500,353.333"
                     Click="BtnVolverAsesoria_Click" Grid.Row="1">
 
                     <Button.Style>
@@ -285,15 +253,15 @@
                         </ControlTemplate>
                     </Button.Template>
                 </Button>
-                <Button x:Name="btnRetrocederAsesoria_Copy4"                          
+                <Button x:Name="btnRetrocederAsesoria_Copy3"                          
                     BorderThickness="0"
-                    Content="ACEPTAR&#xA;"
+                    Content="VOLVER&#xA;"
                     Foreground="White"
                     FontSize="14"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="649,470,20,17"
-                    Click="BtnVolverAsesoria_Click" Grid.Row="1">
+                    Margin="498,470,171,17.333"
+                    Click="BtnVolverAsesoria_Click" Grid.Row="1" RenderTransformOrigin="0.342,0.712">
 
                     <Button.Style>
                         <Style TargetType="{x:Type Button}">
@@ -317,19 +285,20 @@
                         </ControlTemplate>
                     </Button.Template>
                 </Button>
-                <Button x:Name="btnRetrocederAsesoria_Copy3"                          
+                <Button x:Name="btnConfirmarCheck_Copy"                          
                     BorderThickness="0"
-                    Content="VOLVER&#xA;"
+                    Content="BUSCAR"
                     Foreground="White"
-                    FontSize="14"
+                    FontSize="12"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="524,471,145,16"
-                    Click="BtnVolverAsesoria_Click" Grid.Row="1">
+                    Margin="264,56,384,415.333" Click="btnLoginProfesional_Click"
+                    Grid.Row="1"
+                            >
 
                     <Button.Style>
                         <Style TargetType="{x:Type Button}">
-                            <Setter Property="Background" Value="#462AD8"/>
+                            <Setter Property="Background" Value="#DA34AE"/>
                             <Style.Triggers>
                                 <Trigger Property="IsMouseOver" Value="True">
                                     <Setter Property="Background" Value="#28AEED"/>
@@ -340,7 +309,40 @@
 
                     <Button.Template>
                         <ControlTemplate TargetType="{x:Type Button}">
-                            <Border Width="100" Height="35"
+                            <Border Width="150" Height="40"
+                                CornerRadius="20"
+                                Background="{TemplateBinding Background}">
+                                <ContentPresenter VerticalAlignment="Center"
+                                    HorizontalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+                <Button x:Name="btnConfirmarCheck_Copy1"                          
+                    BorderThickness="0"
+                    Content="GUARDAR"
+                    Foreground="White"
+                    FontSize="12"
+                    FontFamily="Montserrat"
+                    Cursor="Hand"                           
+                    Margin="638,460,10,11.333" Click="btnLoginProfesional_Click"
+                    Grid.Row="1"
+                            >
+
+                    <Button.Style>
+                        <Style TargetType="{x:Type Button}">
+                            <Setter Property="Background" Value="#DA34AE"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="#28AEED"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+
+                    <Button.Template>
+                        <ControlTemplate TargetType="{x:Type Button}">
+                            <Border Width="150" Height="40"
                                 CornerRadius="20"
                                 Background="{TemplateBinding Background}">
                                 <ContentPresenter VerticalAlignment="Center"

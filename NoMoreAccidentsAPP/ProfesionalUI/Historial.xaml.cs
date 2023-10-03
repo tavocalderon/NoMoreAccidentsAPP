@@ -28,5 +28,10 @@ namespace NoMoreAccidentsAPP.ProfesionalUI
         {
 
         }
+
+        private void btnLoginProfesional_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

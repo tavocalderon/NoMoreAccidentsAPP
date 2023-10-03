@@ -219,45 +219,12 @@
                 </Button>
                 <Button x:Name="btnConfirmarCheck_Copy1"                          
                     BorderThickness="0"
-                    Content="INICIAR"
+                    Content="CANCELAR&#xD;&#xA;"
                     Foreground="White"
                     FontSize="12"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
                     Margin="589,449,241,22" Click="btnLoginProfesional_Click"
-                    Grid.Row="1"
-                            >
-
-                    <Button.Style>
-                        <Style TargetType="{x:Type Button}">
-                            <Setter Property="Background" Value="#462AD8"/>
-                            <Style.Triggers>
-                                <Trigger Property="IsMouseOver" Value="True">
-                                    <Setter Property="Background" Value="#28AEED"/>
-                                </Trigger>
-                            </Style.Triggers>
-                        </Style>
-                    </Button.Style>
-
-                    <Button.Template>
-                        <ControlTemplate TargetType="{x:Type Button}">
-                            <Border Width="150" Height="40"
-                                CornerRadius="20"
-                                Background="{TemplateBinding Background}">
-                                <ContentPresenter VerticalAlignment="Center"
-                                    HorizontalAlignment="Center"/>
-                            </Border>
-                        </ControlTemplate>
-                    </Button.Template>
-                </Button>
-                <Button x:Name="btnConfirmarCheck_Copy2"                          
-                    BorderThickness="0"
-                    Content="INICIAR"
-                    Foreground="White"
-                    FontSize="12"
-                    FontFamily="Montserrat"
-                    Cursor="Hand"                           
-                    Margin="782,449,48,22" Click="btnLoginProfesional_Click"
                     Grid.Row="1"
                             >
 
@@ -289,6 +256,39 @@
                     FontWeight="Medium"
                     FontFamily="Montserrat"
                     HorizontalAlignment="Center" Margin="44,10,532,461" Grid.Row="1" Width="410"/>
+                <Button x:Name="btnConfirmarCheck_Copy2"                          
+                    BorderThickness="0"
+                    Content="INICIAR"
+                    Foreground="White"
+                    FontSize="12"
+                    FontFamily="Montserrat"
+                    Cursor="Hand"                           
+                    Margin="782,449,48,22.333" Click="btnLoginProfesional_Click"
+                    Grid.Row="1"
+                            >
+
+                    <Button.Style>
+                        <Style TargetType="{x:Type Button}">
+                            <Setter Property="Background" Value="#DA34AE"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="#28AEED"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+
+                    <Button.Template>
+                        <ControlTemplate TargetType="{x:Type Button}">
+                            <Border Width="150" Height="40"
+                                CornerRadius="20"
+                                Background="{TemplateBinding Background}">
+                                <ContentPresenter VerticalAlignment="Center"
+                                    HorizontalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
 
 
 

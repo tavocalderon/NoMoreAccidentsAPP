@@ -99,7 +99,7 @@
 
                     </Button>
 
-                    <Button x:Name="btnCerrarLobby"                          
+                    <Button x:Name="btnCerrarMenuP"                          
                             BorderThickness="0"
                             Content="X"
                             Foreground="White"
@@ -156,7 +156,7 @@
                     FontSize="16"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="0,78,801,374"
+                    Margin="-10,61,811,391.333"
                     Grid.Row="1">
 
 
@@ -196,7 +196,7 @@
                     FontSize="16"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="0,142,801,310"
+                    Margin="-10,139,811,313.333"
                     Grid.Row="1">
 
 
@@ -230,7 +230,7 @@
                     FontSize="16"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="0,316,775,136"
+                    Margin="-24,226,794,226.333"
                     Grid.Row="1">
 
 
@@ -264,7 +264,7 @@
                     FontSize="16"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="10,390,791,62"
+                    Margin="-10,305,811,147.333"
                     Grid.Row="1">
 
 
@@ -291,7 +291,7 @@
                         </ControlTemplate>
                     </Button.Template>
                 </Button>
-                <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="173" Margin="515,226,0,0" Grid.Row="1" Stroke="Black" VerticalAlignment="Top" Width="436"/>
+                <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="242" Margin="511,226,0,0" Grid.Row="1" Stroke="Black" VerticalAlignment="Top" Width="436"/>
 
 
 

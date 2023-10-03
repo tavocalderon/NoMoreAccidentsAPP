@@ -21,7 +21,7 @@
 
         <Border x:Name="LobbyAPPs" CornerRadius="10"                    
             BorderThickness="2"
-            Opacity="0.95" Margin="0,0,-146,0" Width="764" HorizontalAlignment="Right">
+            Opacity="0.95" Margin="0,0,-146,0" HorizontalAlignment="Left" Width="764">
 
             <Border.BorderBrush>
                 <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
@@ -134,7 +134,7 @@
                 </Grid>
 
                 <StackPanel
-                            Orientation="Vertical" Grid.RowSpan="2" Margin="0,0,150,0">
+                            Orientation="Vertical" Grid.RowSpan="2" Margin="0,0,-29,0">
 
                     <TextBlock
                                Foreground="White"

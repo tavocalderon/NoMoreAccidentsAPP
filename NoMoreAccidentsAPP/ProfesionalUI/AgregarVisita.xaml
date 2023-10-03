@@ -15,8 +15,8 @@
 >
     <Border CornerRadius="12">
         <Border.Background>
-            <ImageBrush ImageSource="C:\Users\tavo\source\repos\NoMoreAccidentsAPP\NoMoreAccidentsAPP\Imagenes\3479182.jpeg"
-                        Stretch="None"/>
+            <ImageBrush ImageSource="C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\IMG\fondoventanas.jpeg"
+                        Stretch="Fill"/>
         </Border.Background>
 
         <Border x:Name="LobbyAPPs" CornerRadius="10"                    
@@ -149,40 +149,6 @@
                                 Margin="0,15,0,0"/>
 
                 </StackPanel>
-                <Button x:Name="btnAgregarAsesoria"                          
-                    BorderThickness="0"
-                    Content="AGREGAR"
-                    Foreground="White"
-                    FontSize="12"
-                    FontFamily="Montserrat"
-                    Cursor="Hand"                           
-                    Margin="183,378,373,63"
-                    Grid.Row="1">
-
-
-
-                    <Button.Style>
-                        <Style TargetType="{x:Type Button}">
-                            <Setter Property="Background" Value="#462AD8"/>
-                            <Style.Triggers>
-                                <Trigger Property="IsMouseOver" Value="True">
-                                    <Setter Property="Background" Value="#28AEED"/>
-                                </Trigger>
-                            </Style.Triggers>
-                        </Style>
-                    </Button.Style>
-
-                    <Button.Template>
-                        <ControlTemplate TargetType="{x:Type Button}">
-                            <Border Width="150" Height="40"
-                                CornerRadius="20"
-                                Background="{TemplateBinding Background}">
-                                <ContentPresenter VerticalAlignment="Center"
-                                    HorizontalAlignment="Center"/>
-                            </Border>
-                        </ControlTemplate>
-                    </Button.Template>
-                </Button>
                 <TextBox HorizontalAlignment="Left" Height="27" Margin="263,338,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="285"/>
                 <TextBox HorizontalAlignment="Left" Height="27" Margin="263,156,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="285"/>
                 <ComboBox HorizontalAlignment="Left" Margin="263,111,0,0" Grid.Row="1" VerticalAlignment="Top" Width="285" Height="27"/>
@@ -232,7 +198,7 @@
                     FontSize="12"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="373,378,183,63"
+                    Margin="140,410,416.333,31.333"
                     Grid.Row="1">
 
 
@@ -240,6 +206,39 @@
                     <Button.Style>
                         <Style TargetType="{x:Type Button}">
                             <Setter Property="Background" Value="#462AD8"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="#28AEED"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+
+                    <Button.Template>
+                        <ControlTemplate TargetType="{x:Type Button}">
+                            <Border Width="150" Height="40"
+                                CornerRadius="20"
+                                Background="{TemplateBinding Background}">
+                                <ContentPresenter VerticalAlignment="Center"
+                                    HorizontalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+                <Button x:Name="btnConfirmarCheck_Copy"                          
+                    BorderThickness="0"
+                    Content="BUSCAR"
+                    Foreground="White"
+                    FontSize="12"
+                    FontFamily="Montserrat"
+                    Cursor="Hand"                           
+                    Margin="392,425,253.333,46.333" Click="btnLoginProfesional_Click"
+                    Grid.Row="1"
+                            >
+
+                    <Button.Style>
+                        <Style TargetType="{x:Type Button}">
+                            <Setter Property="Background" Value="#DA34AE"/>
                             <Style.Triggers>
                                 <Trigger Property="IsMouseOver" Value="True">
                                     <Setter Property="Background" Value="#28AEED"/>

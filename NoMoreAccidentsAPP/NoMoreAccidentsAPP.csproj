@@ -282,10 +282,6 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="ProfesionalUI\ventanaexample.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
     <Page Include="ProfesionalUI\VisualizarInformacionCliente.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -300,9 +296,6 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ProfesionalUI\ventanaexample.xaml.cs">
-      <DependentUpon>ventanaexample.xaml</DependentUpon>
-    </Compile>
     <Compile Include="ProfesionalUI\VisualizarInformacionCliente.xaml.cs">
       <DependentUpon>VisualizarInformacionCliente.xaml</DependentUpon>
     </Compile>
