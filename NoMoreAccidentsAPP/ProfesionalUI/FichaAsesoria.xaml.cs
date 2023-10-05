@@ -21,7 +21,11 @@ namespace NoMoreAccidentsAPP.ProfesionalUI
     {
         public FichaAsesoria()
         {
-            InitializeComponent();
+            
         }
+      
+
+
+
     }
 }

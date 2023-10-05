@@ -149,8 +149,7 @@
                                 Margin="0,15,0,0"/>
 
                 </StackPanel>
-                <TextBox HorizontalAlignment="Left" Height="31" Margin="47,110,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="212" TextChanged="TextBox_TextChanged"/>
-                <DataGrid HorizontalAlignment="Left" Height="212" Margin="47,171,0,0" Grid.Row="1" VerticalAlignment="Top" Width="896"/>
+                <DataGrid HorizontalAlignment="Left" Height="212" Margin="47,171,0,0" Grid.Row="1" VerticalAlignment="Top" Width="896" SelectionChanged="DataGrid_SelectionChanged"/>
                 <TextBlock
                     Foreground="White"
                     FontSize="18"
@@ -164,7 +163,7 @@
                     FontSize="12"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="670,447,-54,24" Click="btnLoginProfesional_Click"
+                    Margin="670,447,-54,24" Click="btnVolverVisitas_Click"
                     Grid.Row="1"
                             >
 
@@ -190,14 +189,14 @@
                         </ControlTemplate>
                     </Button.Template>
                 </Button>
-                <Button x:Name="btnConfirmarCheck_Copy"                          
+                <Button x:Name="btnVerPerfilCliente"                          
                     BorderThickness="0"
                     Content="VER PERFIL"
                     Foreground="White"
                     FontSize="12"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="286,101,544,370.333" Click="btnLoginProfesional_Click"
+                    Margin="286,101,544,370.333" Click="btnVerPerfilCliente_Click"
                     Grid.Row="1"
                             >
 

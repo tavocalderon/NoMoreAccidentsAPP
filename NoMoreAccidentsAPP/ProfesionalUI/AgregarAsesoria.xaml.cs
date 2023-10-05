@@ -30,10 +30,7 @@ namespace NoMoreAccidentsAPP.ProfesionalUI
 
         }
 
-        private void BtnVolverAsesoria_Click(object sender, RoutedEventArgs e)
-        {
 
-        }
         private void BtnAgregarAsesoria_Click(object sender, RoutedEventArgs e)
         {
 

@@ -157,14 +157,14 @@
                     HorizontalAlignment="Center" Margin="82,387,596,154" Grid.Row="1" Width="117"/>
                 <DataGrid HorizontalAlignment="Left" Height="262" Margin="82,97,0,0" Grid.Row="1" VerticalAlignment="Top" Width="634"/>
                 <TextBox HorizontalAlignment="Left" Height="58" Margin="82,411,0,0" Grid.Row="1" TextWrapping="Wrap" Text="#########################" VerticalAlignment="Top" Width="634"/>
-                <Button x:Name="btnConfirmarCheck"                          
+                <Button x:Name="BtnVerPerfil"                          
                     BorderThickness="0"
                     Content="VER PERFIL"
                     Foreground="White"
                     FontSize="12"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="614,495,25,25" Click="btnLoginProfesional_Click"
+                    Margin="614,495,25,25" Click="BtnVerPerfil_Click"
                     Grid.Row="1"
                             >
 

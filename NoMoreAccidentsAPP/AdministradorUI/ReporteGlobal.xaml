@@ -245,9 +245,7 @@
                     FontWeight="Medium"
                     FontFamily="Montserrat"
                     HorizontalAlignment="Center" Margin="437,183,259,317" Grid.Row="1" Width="109" FontSize="10"/>
-                <TextBox HorizontalAlignment="Left" Height="18" Margin="561,23,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="193" TextChanged="TextBox_TextChanged_1" Text="5"/>
                 <TextBox HorizontalAlignment="Left" Height="18" Margin="561,62,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="193" Text="0"/>
-                <TextBox HorizontalAlignment="Left" Height="18" Margin="561,141,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="193" TextChanged="TextBox_TextChanged"/>
                 <TextBox HorizontalAlignment="Left" Margin="561,180,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="193"/>
                 <TextBox HorizontalAlignment="Left" Height="94" Margin="23,310,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="523"/>
                 <TextBox HorizontalAlignment="Left" Margin="561,217,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="193"/>
@@ -261,14 +259,14 @@
                     FontWeight="Medium"
                     FontFamily="Montserrat"
                     HorizontalAlignment="Center" Margin="23,288,608,210" Grid.Row="1" Width="174" FontSize="16" Text="RENDIMIENTO GLOBAL"/>
-                <Button x:Name="btnConfirmarCheck_Copy"                          
+                <Button x:Name="btnGuardarReporte"                          
                     BorderThickness="0"
                     Content="GUARDAR"
                     Foreground="White"
                     FontSize="12"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="598,446,51,29" Click="btnLoginProfesional_Click"
+                    Margin="598,446,51,29" Click="btnGuardarReporte_Click"
                     Grid.Row="1"
                             >
 
@@ -328,6 +326,8 @@
                         </ControlTemplate>
                     </Button.Template>
                 </Button>
+                <TextBox HorizontalAlignment="Left" Height="19" Margin="561,28,0,0" Grid.Row="1" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="193"/>
+                <TextBox HorizontalAlignment="Left" Height="18" Margin="561,142,0,0" Grid.Row="1" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="193" TextChanged="TextBox_TextChanged"/>
 
 
             </Grid>

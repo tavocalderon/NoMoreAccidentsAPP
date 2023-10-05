@@ -23,5 +23,30 @@ namespace NoMoreAccidentsAPP.ProfesionalUI
         {
             InitializeComponent();
         }
+
+        private void DataGrid_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
+
+        private void btnLoginProfesional_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnBuscarCliente_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnVerPerfilCliente_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnVolverVisitas_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

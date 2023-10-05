@@ -23,5 +23,15 @@ namespace NoMoreAccidentsAPP.ProfesionalUI
         {
             InitializeComponent();
         }
+
+        private void btnGuardarAsistencia_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void BtnVolverAsistencia_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

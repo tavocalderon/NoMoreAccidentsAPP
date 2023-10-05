@@ -156,14 +156,14 @@
                     FontFamily="Montserrat"
                     HorizontalAlignment="Center" Margin="96,63,500,420" Grid.Row="1" Width="390" Text="CALENDARIO PROFESIONAL"/>
                 <DataGrid HorizontalAlignment="Left" Height="299" Margin="96,106,0,0" Grid.Row="1" VerticalAlignment="Top" Width="792"/>
-                <Button x:Name="btnConfirmarCheck_Copy1"                          
+                <Button x:Name="btnConfirmarCalendario"                          
                     BorderThickness="0"
                     Content="CONFIRMAR"
                     Foreground="White"
                     FontSize="12"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="792,446,38,25" Click="btnLoginProfesional_Click"
+                    Margin="792,446,38,25" Click="btnConfirmarCalendario_Click"
                     Grid.Row="1"
                             >
 

@@ -1,4 +1,4 @@
-﻿<Window x:Class="NoMoreAccidentsAPP.MenuProfesional"
+﻿<Window x:Class="NoMoreAccidentsAPP.FichaAsesoria"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
@@ -172,70 +172,6 @@
                     FontWeight="Medium"
                     FontFamily="Montserrat"
                     HorizontalAlignment="Center" Margin="20,33,800,387" Grid.Row="2" Width="166"/>
-                <Button x:Name="btnRetrocederAsesoria"                          
-                    BorderThickness="0"
-                    Content="GUARDAR"
-                    Foreground="White"
-                    FontSize="12"
-                    FontFamily="Montserrat"
-                    Cursor="Hand"                           
-                    Margin="810,373,23,25"
-                    Click="BtnVolverAsesoria_Click" Grid.Row="2">
-
-                    <Button.Style>
-                        <Style TargetType="{x:Type Button}">
-                            <Setter Property="Background" Value="#462AD8"/>
-                            <Style.Triggers>
-                                <Trigger Property="IsMouseOver" Value="True">
-                                    <Setter Property="Background" Value="#28AEED"/>
-                                </Trigger>
-                            </Style.Triggers>
-                        </Style>
-                    </Button.Style>
-
-                    <Button.Template>
-                        <ControlTemplate TargetType="{x:Type Button}">
-                            <Border Width="100" Height="35"
-                                CornerRadius="20"
-                                Background="{TemplateBinding Background}">
-                                <ContentPresenter VerticalAlignment="Center"
-                                    HorizontalAlignment="Center"/>
-                            </Border>
-                        </ControlTemplate>
-                    </Button.Template>
-                </Button>
-                <Button x:Name="btnRetrocederAsesoria_Copy"                          
-                    BorderThickness="0"
-                    Content="VOLVER"
-                    Foreground="White"
-                    FontSize="12"
-                    FontFamily="Montserrat"
-                    Cursor="Hand"                           
-                    Margin="636,373,197,25"
-                    Click="BtnVolverAsesoria_Click" Grid.Row="2">
-
-                    <Button.Style>
-                        <Style TargetType="{x:Type Button}">
-                            <Setter Property="Background" Value="#462AD8"/>
-                            <Style.Triggers>
-                                <Trigger Property="IsMouseOver" Value="True">
-                                    <Setter Property="Background" Value="#28AEED"/>
-                                </Trigger>
-                            </Style.Triggers>
-                        </Style>
-                    </Button.Style>
-
-                    <Button.Template>
-                        <ControlTemplate TargetType="{x:Type Button}">
-                            <Border Width="100" Height="35"
-                                CornerRadius="20"
-                                Background="{TemplateBinding Background}">
-                                <ContentPresenter VerticalAlignment="Center"
-                                    HorizontalAlignment="Center"/>
-                            </Border>
-                        </ControlTemplate>
-                    </Button.Template>
-                </Button>
                 <TextBlock Text="Tipo de Asesoría: "
                     Foreground="White"
                     FontSize="16"
@@ -248,38 +184,6 @@
                     FontWeight="Medium"
                     FontFamily="Montserrat"
                     HorizontalAlignment="Center" Margin="536,84,284,336" Grid.Row="2" Width="166"/>
-                <Button x:Name="btnRetrocederAsesoria_Copy1"                          
-                    BorderThickness="0"
-                    Content="ACEPTAR&#xD;&#xA;"
-                    Foreground="White"
-                    FontSize="12"
-                    FontFamily="Montserrat"
-                    Cursor="Hand"                           
-                    Margin="728,301,105,105"
-                    Click="BtnVolverAsesoria_Click" Grid.Row="2">
-
-                    <Button.Style>
-                        <Style TargetType="{x:Type Button}">
-                            <Setter Property="Background" Value="#462AD8"/>
-                            <Style.Triggers>
-                                <Trigger Property="IsMouseOver" Value="True">
-                                    <Setter Property="Background" Value="#28AEED"/>
-                                </Trigger>
-                            </Style.Triggers>
-                        </Style>
-                    </Button.Style>
-
-                    <Button.Template>
-                        <ControlTemplate TargetType="{x:Type Button}">
-                            <Border Width="100" Height="30"
-                                CornerRadius="20"
-                                Background="{TemplateBinding Background}">
-                                <ContentPresenter VerticalAlignment="Center"
-                                    HorizontalAlignment="Center"/>
-                            </Border>
-                        </ControlTemplate>
-                    </Button.Template>
-                </Button>
                 <TextBlock Text="Fecha Inicio: dd/MM/YYY"
                     Foreground="White"
                     FontSize="16"
@@ -298,38 +202,6 @@
                     FontWeight="Medium"
                     FontFamily="Montserrat"
                     HorizontalAlignment="Center" Margin="20,116,800,304" Grid.Row="2" Width="166"/>
-                <Button x:Name="btnRetrocederAsesoria_Copy2"                          
-                    BorderThickness="0"
-                    Content="ACEPTAR&#xD;&#xA;"
-                    Foreground="White"
-                    FontSize="12"
-                    FontFamily="Montserrat"
-                    Cursor="Hand"                           
-                    Margin="731,99,102,301"
-                    Click="BtnVolverAsesoria_Click" Grid.Row="2">
-
-                    <Button.Style>
-                        <Style TargetType="{x:Type Button}">
-                            <Setter Property="Background" Value="#462AD8"/>
-                            <Style.Triggers>
-                                <Trigger Property="IsMouseOver" Value="True">
-                                    <Setter Property="Background" Value="#28AEED"/>
-                                </Trigger>
-                            </Style.Triggers>
-                        </Style>
-                    </Button.Style>
-
-                    <Button.Template>
-                        <ControlTemplate TargetType="{x:Type Button}">
-                            <Border Width="100" Height="35"
-                                CornerRadius="20"
-                                Background="{TemplateBinding Background}">
-                                <ContentPresenter VerticalAlignment="Center"
-                                    HorizontalAlignment="Center"/>
-                            </Border>
-                        </ControlTemplate>
-                    </Button.Template>
-                </Button>
 
 
 

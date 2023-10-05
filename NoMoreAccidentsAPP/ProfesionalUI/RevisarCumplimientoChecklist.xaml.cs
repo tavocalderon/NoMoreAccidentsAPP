@@ -23,5 +23,10 @@ namespace NoMoreAccidentsAPP.ProfesionalUI
         {
             InitializeComponent();
         }
+
+        private void BtnVerPerfil_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

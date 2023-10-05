@@ -292,7 +292,7 @@
                     FontSize="12"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="264,56,384,415.333" Click="btnLoginProfesional_Click"
+                    Margin="264,56,384,415.333" Click="btnBuscarCliente_Click"
                     Grid.Row="1"
                             >
 
@@ -325,7 +325,7 @@
                     FontSize="12"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="638,460,10,11.333" Click="btnLoginProfesional_Click"
+                    Margin="638,460,10,11.333" Click="btnGuardarRegistro_Click"
                     Grid.Row="1"
                             >
 

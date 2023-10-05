@@ -155,80 +155,14 @@
                     FontWeight="Medium"
                     FontFamily="Montserrat"
                     HorizontalAlignment="Center" Margin="316,23,376,448" Grid.Row="1" Width="294"/>
-                <TextBox HorizontalAlignment="Left" Height="31" Margin="47,110,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="212" TextChanged="TextBox_TextChanged"/>
+                <TextBox HorizontalAlignment="Left" Height="31" Margin="47,110,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="212" TextChanged="TextBox_BuscarProfesional"/>
                 <DataGrid HorizontalAlignment="Left" Height="212" Margin="47,171,0,0" Grid.Row="1" VerticalAlignment="Top" Width="896"/>
-                <Button x:Name="btnVerPerfil"                          
-                    BorderThickness="0"
-                    Content="VER PERFIL"
-                    Foreground="White"
-                    FontSize="12"
-                    FontFamily="Montserrat"
-                    Cursor="Hand"                           
-                    Margin="286,101,544,370" Click="btnLoginProfesional_Click"
-                            Grid.Row="1"
-                            >
-
-                    <Button.Style>
-                        <Style TargetType="{x:Type Button}">
-                            <Setter Property="Background" Value="#462AD8"/>
-                            <Style.Triggers>
-                                <Trigger Property="IsMouseOver" Value="True">
-                                    <Setter Property="Background" Value="#28AEED"/>
-                                </Trigger>
-                            </Style.Triggers>
-                        </Style>
-                    </Button.Style>
-
-                    <Button.Template>
-                        <ControlTemplate TargetType="{x:Type Button}">
-                            <Border Width="150" Height="40"
-                                CornerRadius="20"
-                                Background="{TemplateBinding Background}">
-                                <ContentPresenter VerticalAlignment="Center"
-                                    HorizontalAlignment="Center"/>
-                            </Border>
-                        </ControlTemplate>
-                    </Button.Template>
-                </Button>
                 <TextBlock Text="Buscar Profesional"
                     Foreground="White"
                     FontSize="20"
                     FontWeight="Medium"
                     FontFamily="Montserrat"
                     HorizontalAlignment="Center" Margin="47,83,772,406" Grid.Row="1" Width="167"/>
-                <Button x:Name="btnVolverListado"                          
-                    BorderThickness="0"
-                    Content="VOLVER"
-                    Foreground="White"
-                    FontSize="12"
-                    FontFamily="Montserrat"
-                    Cursor="Hand"                           
-                    Margin="670,447,-54,24" Click="btnLoginProfesional_Click"
-                    Grid.Row="1"
-                            >
-
-                    <Button.Style>
-                        <Style TargetType="{x:Type Button}">
-                            <Setter Property="Background" Value="#462AD8"/>
-                            <Style.Triggers>
-                                <Trigger Property="IsMouseOver" Value="True">
-                                    <Setter Property="Background" Value="#28AEED"/>
-                                </Trigger>
-                            </Style.Triggers>
-                        </Style>
-                    </Button.Style>
-
-                    <Button.Template>
-                        <ControlTemplate TargetType="{x:Type Button}">
-                            <Border Width="150" Height="40"
-                                CornerRadius="20"
-                                Background="{TemplateBinding Background}">
-                                <ContentPresenter VerticalAlignment="Center"
-                                    HorizontalAlignment="Center"/>
-                            </Border>
-                        </ControlTemplate>
-                    </Button.Template>
-                </Button>
                 <TextBlock Text="Disponibilidad()"
                     Foreground="White"
                     FontSize="20"

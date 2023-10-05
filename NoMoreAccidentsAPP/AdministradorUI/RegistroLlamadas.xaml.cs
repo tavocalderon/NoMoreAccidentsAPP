@@ -33,5 +33,15 @@ namespace NoMoreAccidentsAPP.AdministradorUI
         {
 
         }
+
+        private void btnBuscarCliente_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnGuardarRegistro_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

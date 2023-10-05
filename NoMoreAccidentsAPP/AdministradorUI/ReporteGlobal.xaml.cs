@@ -23,5 +23,15 @@ namespace NoMoreAccidentsAPP.AdministradorUI
         {
             InitializeComponent();
         }
+
+        private void btnGuardarReporte_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }

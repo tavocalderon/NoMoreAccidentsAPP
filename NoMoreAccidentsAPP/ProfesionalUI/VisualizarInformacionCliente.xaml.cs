@@ -23,5 +23,20 @@ namespace NoMoreAccidentsAPP.ProfesionalUI
         {
             InitializeComponent();
         }
+
+        private void BtnVolverProfesional_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void BtnBuscarCliente_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnGenerarReporte_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

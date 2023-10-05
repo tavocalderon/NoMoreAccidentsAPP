@@ -25,14 +25,26 @@ namespace NoMoreAccidentsAPP
             InitializeComponent();
         }
 
-        private void btnAgregarAsesoria_Click(object sender, RoutedEventArgs e)
+        private void BtnAgregarAsesoria_Click(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        private void BtnVerPerfilProfesional_Click(object sender, TextChangedEventArgs e)
+        {
+
+        }
+
+        private void BtnVolver_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void TextBox_BuscarProfesional(object sender, TextChangedEventArgs e)
         {
 
         }
     }
+
+   
 }

@@ -198,78 +198,12 @@
                     FontFamily="Montserrat"
                     HorizontalAlignment="Center" Margin="68,353,628,143" Grid.Row="1" Width="105"/>
                 <Image HorizontalAlignment="Left" Height="160" Margin="523,83,0,0" Grid.Row="1" VerticalAlignment="Top" Width="180" Source="C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\IMG\symbole-masculin-icone-l-utilisateur-violet.png"/>
-                <Button x:Name="btnVolverProfesional"                          
-                    BorderThickness="0"
-                    Content="GENERAR REPORTE "
-                    Foreground="White"
-                    FontSize="12"
-                    FontFamily="Montserrat"
-                    Cursor="Hand"                           
-                    Margin="525,422,72.333,38.333"
-                    Grid.Row="1">
-
-
-
-                    <Button.Style>
-                        <Style TargetType="{x:Type Button}">
-                            <Setter Property="Background" Value="#462AD8"/>
-                            <Style.Triggers>
-                                <Trigger Property="IsMouseOver" Value="True">
-                                    <Setter Property="Background" Value="#28AEED"/>
-                                </Trigger>
-                            </Style.Triggers>
-                        </Style>
-                    </Button.Style>
-
-                    <Button.Template>
-                        <ControlTemplate TargetType="{x:Type Button}">
-                            <Border Width="150" Height="40"
-                                CornerRadius="20"
-                                Background="{TemplateBinding Background}">
-                                <ContentPresenter VerticalAlignment="Center"
-                                    HorizontalAlignment="Center"/>
-                            </Border>
-                        </ControlTemplate>
-                    </Button.Template>
-                </Button>
                 <TextBlock
                     Foreground="White"
                     FontWeight="Medium"
                     FontFamily="Montserrat"
                     HorizontalAlignment="Center" Margin="523,60,98,433" Grid.Row="1" Width="180" FontSize="16"><Run Text="INFORMACION"/><Run Text=" "/><Run Text="CLIENTE"/></TextBlock>
-                <Button x:Name="btnConfirmarCheck_Copy"                          
-                    BorderThickness="0"
-                    Content="BUSCAR"
-                    Foreground="White"
-                    FontSize="12"
-                    FontFamily="Montserrat"
-                    Cursor="Hand"                           
-                    Margin="207,430,442.333,45.333" Click="btnLoginProfesional_Click"
-                    Grid.Row="1"
-                            >
-
-                    <Button.Style>
-                        <Style TargetType="{x:Type Button}">
-                            <Setter Property="Background" Value="#DA34AE"/>
-                            <Style.Triggers>
-                                <Trigger Property="IsMouseOver" Value="True">
-                                    <Setter Property="Background" Value="#28AEED"/>
-                                </Trigger>
-                            </Style.Triggers>
-                        </Style>
-                    </Button.Style>
-
-                    <Button.Template>
-                        <ControlTemplate TargetType="{x:Type Button}">
-                            <Border Width="150" Height="40"
-                                CornerRadius="20"
-                                Background="{TemplateBinding Background}">
-                                <ContentPresenter VerticalAlignment="Center"
-                                    HorizontalAlignment="Center"/>
-                            </Border>
-                        </ControlTemplate>
-                    </Button.Template>
-                </Button>
+               
 
 
             </Grid>

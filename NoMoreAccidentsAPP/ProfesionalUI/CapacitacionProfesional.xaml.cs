@@ -28,5 +28,15 @@ namespace NoMoreAccidentsAPP.ProfesionalUI
         {
 
         }
+
+        private void btnAsistencia_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnIniciarCapacitacion_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

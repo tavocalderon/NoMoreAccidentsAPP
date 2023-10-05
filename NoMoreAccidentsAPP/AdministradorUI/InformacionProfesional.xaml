@@ -201,12 +201,12 @@
                 <Image HorizontalAlignment="Left" Height="160" Margin="523,83,0,0" Grid.Row="1" VerticalAlignment="Top" Width="180" Source="C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidentsAPP\IMG\symbole-masculin-icone-l-utilisateur-violet.png"/>
                 <Button x:Name="btnVolverProfesional"                          
                     BorderThickness="0"
-                    Content="GENERAR REPORTE "
+                    Content="VOLVER"
                     Foreground="White"
                     FontSize="12"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="173,388,425,73"
+                    Margin="563,427,34.333,33.333"
                     Grid.Row="1">
 
 

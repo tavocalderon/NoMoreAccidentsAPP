@@ -23,5 +23,10 @@ namespace NoMoreAccidentsAPP.ProfesionalUI
         {
             InitializeComponent();
         }
+
+        private void btnConfirmarCalendario_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
