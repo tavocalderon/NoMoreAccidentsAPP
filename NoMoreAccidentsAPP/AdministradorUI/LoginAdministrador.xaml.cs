@@ -46,7 +46,7 @@ namespace NoMoreAccidentsAPP
 
 
 
-            MenuAdministrador MAdmin = new MenuAdministrador();
+           MenuADM MAdmin = new MenuADM();
             MAdmin.ShowDialog();
 
         }

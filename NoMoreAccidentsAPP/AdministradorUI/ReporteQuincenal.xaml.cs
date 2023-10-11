@@ -33,5 +33,17 @@ namespace NoMoreAccidentsAPP.AdministradorUI
         {
 
         }
+
+  
+
+        private void btnVolver_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnVolverProfesional_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

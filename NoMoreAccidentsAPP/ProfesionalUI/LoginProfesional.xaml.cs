@@ -17,6 +17,7 @@ using System.Data.OracleClient;
 using NoMoreAccidentsAPP.ProfesionalUI;
 using System.Configuration;
 using Oracle.ManagedDataAccess.Client;
+using System.Security.Cryptography;
 
 namespace NoMoreAccidentsAPP
 {

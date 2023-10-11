@@ -23,5 +23,15 @@ namespace NoMoreAccidentsAPP
         {
 
         }
+
+        private void btnAgregarProfesional_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnVolverProfesional_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

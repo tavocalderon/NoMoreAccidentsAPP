@@ -21,7 +21,17 @@ namespace NoMoreAccidentsAPP.ProfesionalUI
     {
         public AgregarVisita()
         {
-         
+            InitializeComponent();
+        }
+
+        private void btnVolverProfesional_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnCancelarAsesoria_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

@@ -106,7 +106,7 @@
                             FontSize="12"
                             FontFamily="Montserrat"
                             Cursor="Hand"
-                            Grid.Column="2"
+                            Grid.Column="2" Margin="0,0,0.333,0"
                             >
 
                         <Button.Style>
@@ -156,7 +156,7 @@
                     FontSize="16"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="-10,61,811,391.333"
+                    Margin="791,105,10,347.333"
                     Grid.Row="1">
 
 
@@ -196,7 +196,7 @@
                     FontSize="16"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="-10,139,811,313.333"
+                    Margin="566,105,235,347.333"
                     Grid.Row="1">
 
 
@@ -230,7 +230,7 @@
                     FontSize="16"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="-24,226,794,226.333"
+                    Margin="316,105,454,347.333"
                     Grid.Row="1">
 
 
@@ -264,7 +264,7 @@
                     FontSize="16"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="-10,305,811,147.333"
+                    Margin="70,105,731,347.333"
                     Grid.Row="1">
 
 
@@ -291,7 +291,40 @@
                         </ControlTemplate>
                     </Button.Template>
                 </Button>
-                <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="242" Margin="511,226,0,0" Grid.Row="1" Stroke="Black" VerticalAlignment="Top" Width="436"/>
+                <Button x:Name="btnAgregarAsesoria_Copy3"                          
+                    BorderThickness="0"
+                    Content="CALENDARIO"
+                    Foreground="White"
+                    FontSize="16"
+                    FontFamily="Montserrat"
+                    Cursor="Hand"                           
+                    Margin="744,315,57,137.333"
+                    Grid.Row="1">
+
+
+
+                    <Button.Style>
+                        <Style TargetType="{x:Type Button}">
+                            <Setter Property="Background" Value="#462AD8"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="#28AEED"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+
+                    <Button.Template>
+                        <ControlTemplate TargetType="{x:Type Button}">
+                            <Border Width="150" Height="50"
+                                CornerRadius="0"
+                                Background="{TemplateBinding Background}">
+                                <ContentPresenter VerticalAlignment="Center"
+                                    HorizontalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
 
 
 

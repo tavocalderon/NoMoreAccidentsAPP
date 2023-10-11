@@ -11,8 +11,9 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using NoMoreAccidentsAPP.AdministradorUI;
 
-namespace NoMoreAccidentsAPP.ProfesionalUI
+namespace NoMoreAccidentsAPP.AdministradorUI
 {
     /// <summary>
     /// Lógica de interacción para Historial.xaml

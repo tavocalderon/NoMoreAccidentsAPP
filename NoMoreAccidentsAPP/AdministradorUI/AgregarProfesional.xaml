@@ -155,8 +155,8 @@
                     FontSize="12"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="65,423,391,20"
-                    Grid.Row="1">
+                    Margin="425,419,31,23.667"
+                    Grid.Row="1" Click="btnVolverProfesional_Click">
 
 
 
@@ -196,8 +196,8 @@
                     FontSize="12"
                     FontFamily="Montserrat"
                     Cursor="Hand"                           
-                    Margin="344,421,46,20"
-                    Grid.Row="1">
+                    Margin="131,419,475,21.667"
+                    Grid.Row="1" Click="btnAgregarProfesional_Click">
 
 
 

@@ -202,6 +202,11 @@
                     FontWeight="Medium"
                     FontFamily="Montserrat"
                     HorizontalAlignment="Center" Margin="20,116,800,304" Grid.Row="2" Width="166"/>
+                <Button Content="Button" HorizontalAlignment="Left" Margin="765,106.667,0,0" Grid.Row="2" VerticalAlignment="Top" Width="76"/>
+                <Button Content="Button" HorizontalAlignment="Left" Margin="765,300.667,0,0" Grid.Row="2" VerticalAlignment="Top" Width="76"/>
+                <Button x:Name="btnAceptar" Content="Button" HorizontalAlignment="Left" Margin="871,392.667,0,0" Grid.Row="2" VerticalAlignment="Top" Width="75"/>
+                <Button Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75"/>
+                <Button Content="Button" HorizontalAlignment="Left" Margin="736,392.667,0,0" Grid.Row="2" VerticalAlignment="Top" Width="75"/>
 
 
 

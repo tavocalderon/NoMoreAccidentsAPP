@@ -66,6 +66,7 @@
     <Reference Include="Microsoft.Xaml.Behaviors, Version=1.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.Xaml.Behaviors.Wpf.1.1.19\lib\net45\Microsoft.Xaml.Behaviors.dll</HintPath>
     </Reference>
+    <Reference Include="Oracle.DataAccess, Version=4.122.19.1, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=AMD64" />
     <Reference Include="Oracle.ManagedDataAccess, Version=4.122.21.1, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
       <HintPath>..\packages\Oracle.ManagedDataAccess.21.11.0\lib\net462\Oracle.ManagedDataAccess.dll</HintPath>
     </Reference>
@@ -133,8 +134,8 @@
     <Compile Include="AdministradorUI\ListarVistas.xaml.cs">
       <DependentUpon>ListarVistas.xaml</DependentUpon>
     </Compile>
-    <Compile Include="AdministradorUI\MenuAdministrador.xaml.cs">
-      <DependentUpon>MenuAdministrador.xaml</DependentUpon>
+    <Compile Include="AdministradorUI\MenuADM.xaml.cs">
+      <DependentUpon>MenuADM.xaml</DependentUpon>
     </Compile>
     <Compile Include="AdministradorUI\RegistroLlamadas.xaml.cs">
       <DependentUpon>RegistroLlamadas.xaml</DependentUpon>
@@ -172,7 +173,7 @@
     <Compile Include="ProfesionalUI\FichaAsesoria.xaml.cs">
       <DependentUpon>FichaAsesoria.xaml</DependentUpon>
     </Compile>
-    <Compile Include="ProfesionalUI\Historial.xaml.cs">
+    <Compile Include="AdministradorUI\Historial.xaml.cs">
       <DependentUpon>Historial.xaml</DependentUpon>
     </Compile>
     <Compile Include="ProfesionalUI\ListadoVisitasAsignadas.xaml.cs">
@@ -199,7 +200,7 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="AdministradorUI\MenuAdministrador.xaml">
+    <Page Include="AdministradorUI\MenuADM.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -247,7 +248,7 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="ProfesionalUI\Historial.xaml">
+    <Page Include="AdministradorUI\Historial.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -316,12 +317,6 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <None Include="Oracle.DataAccess.Common.Configuration.Section.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Oracle.ManagedDataAccess.Client.Configuration.Section.xsd">
-      <SubType>Designer</SubType>
-    </None>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -338,7 +333,9 @@
   <ItemGroup>
     <Resource Include="Resources\Entypo-license.txt" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
   <ItemGroup>
     <Resource Include="IMG\fondoventanas.jpeg" />
     <Resource Include="IMG\logonma.png" />
