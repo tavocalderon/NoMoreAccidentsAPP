@@ -11,8 +11,9 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
-using NoMoreAccidentsAPP;
 using NoMoreAccidentsAPP.AdministradorUI;
+using System.Data.SqlClient;
+
 
 
 namespace NoMoreAccidentsAPP
@@ -27,8 +28,6 @@ namespace NoMoreAccidentsAPP
             InitializeComponent();
         }
 
-
-
         private void dasada(object sender, RoutedEventArgs e)
         {
             this.Close();
@@ -39,34 +38,69 @@ namespace NoMoreAccidentsAPP
             this.WindowState = WindowState.Minimized;
         }
 
-        
-
-             private void BtnLoginAdministrador_Click(object sender, RoutedEventArgs e)
+        public bool ValidateLogin(string username, string password)
         {
+            // Conectar a la base de datos
+            SqlConnection connection = new SqlConnection();
+            connection.Open();
 
+            // Crear una consulta
+            SqlCommand command = new SqlCommand("SELECT * FROM USUARIOSVIP WHERE username = @username AND contraseña = @password", connection);
+            command.Parameters.AddWithValue("@username", username);
+            command.Parameters.AddWithValue("@password", password);
 
+            // Ejecutar la consulta
+            SqlDataReader reader = command.ExecuteReader();
 
-           MenuADM MAdmin = new MenuADM();
-            MAdmin.ShowDialog();
+            // Si la consulta devuelve un registro, el usuario es válido
+            if (reader.HasRows)
+            {
+                reader.Close();
+                connection.Close();
+                return true;
+            }
 
+            // Si la consulta no devuelve un registro, el usuario no es válido
+            reader.Close();
+            connection.Close();
+            return false;
         }
+    
 
-        private void txtUsuarioAdministrador_TextChanged(object sender, TextChangedEventArgs e)
+    private void BtnLoginAdministrador_Click(object sender, RoutedEventArgs e)
         {
 
+            // Obtener los datos de inicio de sesión del usuario
+            string username = txtUsuarioAdministrador.Text;
+            string password = txtPasswordAdministrador.Password;
+
+            // Validar los datos de inicio de sesión
+            bool isAuthenticated = ValidateLogin(username, password);
+
+            // Mostrar un mensaje al usuario
+            if (isAuthenticated)
+            {
+                MessageBox.Show("Inicio de sesión correcto.");
+            }
+            else
+            {
+                MessageBox.Show("Inicio de sesión incorrecto.");
+            }
         }
 
         private void btnCerrarAdministrador_Click(object sender, RoutedEventArgs e)
         {
-            this.Close();
+
         }
     }
 
-
-
-
-
-
-
-
 }
+
+
+
+
+
+
+
+
+

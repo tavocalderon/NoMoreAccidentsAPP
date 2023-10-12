@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="NoMoreAccidentsWS.Webservice.ServiceNoMA2" CodeBehind="ServiceNoMA2.svc.cs" %>

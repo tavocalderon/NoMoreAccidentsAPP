@@ -5,7 +5,6 @@ C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccid
 C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidents.DALC\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidents.DALC\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidents.DALC\bin\Debug\Oracle.ManagedDataAccess.dll
-C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidents.DALC\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
 C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidents.DALC\bin\Debug\System.Buffers.dll
 C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidents.DALC\bin\Debug\System.Memory.dll
 C:\Users\gcalderon\Downloads\NoMoreAccidentsAPP-20230920T133540Z-001\NoMoreAccidentsAPP\NoMoreAccidents.DALC\bin\Debug\System.Numerics.Vectors.dll
